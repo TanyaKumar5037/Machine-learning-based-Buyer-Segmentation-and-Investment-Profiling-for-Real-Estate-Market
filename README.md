@@ -1,0 +1,2 @@
+# Machine-learning-based-Buyer-Segmentation-and-Investment-Profiling-for-Real-Estate-Market
+This project introduces AI-driven buyer intelligence into the Parcl real estate platform. By identifying hidden customer segments through clustering algorithms the system reveals investment behaviors that traditional analytics cannot detect. Enabling Parcl to build smarter marketing strategies and drive data-driven real estate investment decisions.
