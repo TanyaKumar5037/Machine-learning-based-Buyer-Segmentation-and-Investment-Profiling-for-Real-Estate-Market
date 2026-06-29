@@ -1,0 +1,5 @@
+Cluster ID,Segment Label,Count,Pct of Total,Avg Age,Avg Satisfaction,Loan Rate %,Investment Purpose %,Top Country,Top Referral
+0,Global Investors,254,12.7%,54.7,3.1,29.9,31.5,Canada,Website
+1,First-Time / Loan Buyers,617,30.9%,56.0,3.01,100.0,31.1,Usa,Website
+2,Corporate Buyers,1026,51.3%,57.3,3.02,0.0,29.9,Usa,Website
+3,Luxury / High-Satisfaction,103,5.1%,48.1,3.07,41.7,35.0,Usa,Website

@@ -1,0 +1,2001 @@
+client_id,client_type,gender,age,age_group,country,region,acquisition_purpose,loan_applied,satisfaction_score,referral_channel,kmeans_cluster,cluster_label
+C0001,Individual,F,58.1,50-60,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0002,Individual,M,63.6,60-70,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C0003,Individual,M,67.2,60-70,Usa,California,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0004,Individual,M,66.6,60-70,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0005,Company,M,50.3,50-60,Usa,California,Investment,No,5,Website,3,Luxury / High-Satisfaction
+C0006,Individual,M,69.3,60-70,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0007,Individual,M,79.1,70+,Canada,Quebec,Investment,No,5,Website,0,Global Investors
+C0008,Individual,F,56.7,50-60,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0009,Individual,M,50.7,50-60,Usa,California,Investment,No,5,Agency,2,Corporate Buyers
+C0010,Individual,M,60.0,50-60,Usa,Oregon,Investment,No,3,Agency,2,Corporate Buyers
+C0011,Individual,F,70.0,60-70,Usa,California,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0012,Company,M,51.2,50-60,Usa,California,Investment,No,5,Website,3,Luxury / High-Satisfaction
+C0013,Individual,M,63.9,60-70,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0014,Company,M,45.9,40-50,Usa,California,Home,Yes,3,Website,3,Luxury / High-Satisfaction
+C0015,Individual,F,84.8,70+,Usa,California,Home,No,5,Client,2,Corporate Buyers
+C0016,Individual,F,86.8,70+,Usa,California,Investment,No,5,Website,2,Corporate Buyers
+C0017,Individual,M,49.4,40-50,Usa,Arizona,Home,No,3,Client,2,Corporate Buyers
+C0018,Individual,M,59.4,50-60,Usa,California,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0019,Individual,M,68.8,60-70,Usa,California,Home,Yes,5,Client,1,First-Time / Loan Buyers
+C0020,Individual,F,58.7,50-60,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0021,Individual,M,88.0,70+,Usa,Oregon,Investment,No,3,Website,2,Corporate Buyers
+C0022,Individual,M,59.8,50-60,Germany,Berlin,Investment,No,5,Agency,0,Global Investors
+C0023,Individual,M,67.5,60-70,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0024,Individual,M,62.6,60-70,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C0025,Individual,M,89.4,70+,Usa,Nevada,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0026,Individual,M,63.7,60-70,Usa,California,Investment,No,5,Website,2,Corporate Buyers
+C0027,Individual,M,57.8,50-60,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0028,Individual,F,68.2,60-70,Usa,California,Home,No,3,Client,2,Corporate Buyers
+C0029,Individual,F,50.3,50-60,Usa,Colorado,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0030,Individual,F,74.0,70+,Usa,Nevada,Home,No,3,Website,2,Corporate Buyers
+C0031,Individual,M,48.5,40-50,Usa,Nevada,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0032,Individual,M,59.9,50-60,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0033,Individual,F,57.8,50-60,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0034,Individual,F,56.6,50-60,Belgium,Brussels,Home,No,2,Agency,0,Global Investors
+C0035,Individual,M,61.1,60-70,Mexico,Mexico City,Home,No,3,Agency,2,Corporate Buyers
+C0036,Individual,M,52.8,50-60,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0037,Individual,F,64.4,60-70,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0038,Individual,F,51.5,50-60,Usa,California,Investment,No,4,Client,2,Corporate Buyers
+C0039,Individual,F,59.0,50-60,Russia,Krasnodar Krai,Home,No,1,Agency,2,Corporate Buyers
+C0040,Individual,M,51.2,50-60,Usa,Nevada,Home,No,5,Website,2,Corporate Buyers
+C0041,Individual,M,59.2,50-60,Usa,Arizona,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0042,Individual,F,50.9,50-60,Usa,Utah,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0043,Individual,M,61.2,60-70,Usa,Nevada,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C0044,Individual,F,95.3,70+,Usa,Arizona,Home,No,3,Website,2,Corporate Buyers
+C0045,Individual,M,57.7,50-60,Usa,Colorado,Investment,No,2,Agency,2,Corporate Buyers
+C0046,Individual,F,61.7,60-70,Usa,California,Home,No,5,Client,2,Corporate Buyers
+C0047,Individual,M,55.9,50-60,Usa,Colorado,Home,No,2,Agency,2,Corporate Buyers
+C0048,Individual,M,69.2,60-70,Usa,California,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0049,Individual,F,54.8,50-60,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C0050,Individual,M,86.3,70+,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0051,Individual,F,85.3,70+,Usa,Colorado,Home,No,3,Agency,2,Corporate Buyers
+C0052,Individual,F,59.4,50-60,Usa,Oregon,Investment,No,2,Client,2,Corporate Buyers
+C0053,Individual,M,72.4,70+,Usa,Arizona,Home,No,4,Agency,2,Corporate Buyers
+C0054,Company,M,59.3,50-60,Usa,Nevada,Investment,No,5,Website,3,Luxury / High-Satisfaction
+C0055,Individual,F,53.0,50-60,Usa,California,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0056,Individual,M,61.5,60-70,Usa,Oregon,Investment,No,5,Agency,2,Corporate Buyers
+C0057,Individual,M,93.0,70+,Usa,California,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0058,Company,F,57.1,50-60,Usa,California,Investment,Yes,1,Website,3,Luxury / High-Satisfaction
+C0059,Individual,M,66.0,60-70,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0060,Individual,F,54.1,50-60,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0061,Individual,M,59.1,50-60,Usa,Utah,Home,No,5,Agency,2,Corporate Buyers
+C0062,Individual,M,52.2,50-60,Usa,California,Home,Yes,5,Client,1,First-Time / Loan Buyers
+C0063,Individual,F,83.9,70+,Usa,Arizona,Home,No,4,Website,2,Corporate Buyers
+C0064,Individual,M,52.4,50-60,Uk,Northern Ireland,Investment,No,4,Agency,2,Corporate Buyers
+C0065,Individual,M,54.2,50-60,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C0066,Individual,F,51.5,50-60,Usa,California,Investment,No,3,Client,2,Corporate Buyers
+C0067,Individual,M,49.0,40-50,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0068,Individual,F,60.3,60-70,Usa,Colorado,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0069,Individual,M,56.2,50-60,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C0070,Individual,F,79.1,70+,Usa,Arizona,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0071,Individual,M,40.5,40-50,Usa,California,Home,Yes,1,Client,1,First-Time / Loan Buyers
+C0072,Individual,M,73.4,70+,Usa,Nevada,Investment,No,2,Website,2,Corporate Buyers
+C0073,Individual,F,61.4,60-70,Denmark,Capital Region,Investment,No,1,Agency,0,Global Investors
+C0074,Individual,F,67.5,60-70,Usa,Oregon,Investment,No,5,Client,2,Corporate Buyers
+C0075,Individual,F,56.1,50-60,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0076,Individual,M,70.3,70+,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C0077,Individual,M,45.8,40-50,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0078,Individual,F,78.2,70+,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0079,Individual,M,72.3,70+,Belgium,Brussels,Investment,No,4,Website,0,Global Investors
+C0080,Individual,F,77.4,70+,Usa,California,Investment,No,3,Website,2,Corporate Buyers
+C0081,Individual,F,82.9,70+,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0082,Individual,F,44.5,40-50,Usa,Virginia,Investment,No,5,Client,2,Corporate Buyers
+C0083,Individual,M,87.6,70+,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0084,Individual,M,78.3,70+,Usa,Wyoming,Home,No,3,Agency,2,Corporate Buyers
+C0085,Individual,M,59.8,50-60,Usa,California,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0086,Individual,F,57.5,50-60,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0087,Individual,F,47.1,40-50,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0088,Individual,M,89.8,70+,Usa,Oregon,Investment,No,2,Website,2,Corporate Buyers
+C0089,Individual,M,76.6,70+,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C0090,Individual,M,44.1,40-50,Usa,California,Home,No,5,Client,2,Corporate Buyers
+C0091,Individual,F,66.6,60-70,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0092,Individual,M,55.1,50-60,Usa,Kansas,Home,No,3,Website,2,Corporate Buyers
+C0093,Individual,M,63.8,60-70,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C0094,Individual,F,78.2,70+,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0095,Individual,M,62.3,60-70,Usa,California,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0096,Individual,M,40.5,40-50,Usa,California,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C0097,Individual,M,83.0,70+,Usa,Virginia,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0098,Individual,F,77.0,70+,Russia,Saint Petersburg,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0099,Individual,M,84.5,70+,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C0100,Individual,M,57.0,50-60,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0101,Individual,F,75.3,70+,Usa,Nevada,Home,No,3,Website,2,Corporate Buyers
+C0102,Individual,M,79.3,70+,Usa,California,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0103,Individual,M,52.5,50-60,Usa,Colorado,Home,No,3,Website,2,Corporate Buyers
+C0104,Individual,M,47.8,40-50,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0105,Individual,F,66.6,60-70,Usa,California,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C0106,Individual,M,73.0,70+,Usa,Colorado,Home,No,4,Website,2,Corporate Buyers
+C0107,Individual,M,66.9,60-70,Usa,California,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0108,Individual,M,67.5,60-70,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0109,Individual,F,93.1,70+,Usa,California,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C0110,Individual,F,67.0,60-70,Usa,California,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C0111,Individual,M,47.0,40-50,Usa,Arizona,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0112,Individual,F,65.7,60-70,Usa,California,Investment,Yes,1,Agency,1,First-Time / Loan Buyers
+C0113,Individual,M,76.9,70+,Usa,Utah,Investment,No,4,Agency,2,Corporate Buyers
+C0114,Individual,F,64.4,60-70,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0115,Individual,F,47.5,40-50,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C0116,Individual,F,70.9,70+,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C0117,Individual,M,61.7,60-70,Uk,Scotland,Investment,No,4,Agency,2,Corporate Buyers
+C0118,Individual,F,77.6,70+,Usa,Oregon,Investment,No,5,Agency,2,Corporate Buyers
+C0119,Individual,F,83.9,70+,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0120,Individual,F,72.9,70+,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0121,Individual,M,75.9,70+,Usa,Nevada,Home,No,2,Website,2,Corporate Buyers
+C0122,Individual,F,52.8,50-60,Usa,California,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0123,Individual,F,63.8,60-70,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0124,Individual,F,62.9,60-70,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0125,Individual,M,49.5,40-50,Usa,Colorado,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0126,Individual,F,53.9,50-60,Usa,California,Investment,No,2,Agency,2,Corporate Buyers
+C0127,Individual,M,51.9,50-60,Usa,Nevada,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0128,Company,M,63.1,60-70,Usa,Nevada,Investment,Yes,5,Website,3,Luxury / High-Satisfaction
+C0129,Individual,M,52.9,50-60,Usa,Arizona,Investment,No,5,Website,2,Corporate Buyers
+C0130,Individual,M,67.2,60-70,Usa,Nevada,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0131,Individual,M,54.5,50-60,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C0132,Individual,M,60.9,60-70,Usa,Nevada,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0133,Individual,M,79.8,70+,Usa,California,Investment,No,4,Agency,2,Corporate Buyers
+C0134,Individual,F,94.0,70+,Russia,Novosibirsk,Investment,No,3,Website,2,Corporate Buyers
+C0135,Individual,M,87.3,70+,Usa,Utah,Investment,No,2,Agency,2,Corporate Buyers
+C0136,Individual,M,52.8,50-60,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0137,Individual,F,68.6,60-70,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0138,Individual,F,87.0,70+,Usa,Oregon,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C0139,Individual,F,56.7,50-60,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0140,Individual,F,74.0,70+,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0141,Individual,F,40.0,30-40,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0142,Individual,F,48.0,40-50,Usa,Nevada,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0143,Individual,M,68.3,60-70,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C0144,Individual,M,71.7,70+,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0145,Individual,F,61.5,60-70,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0146,Individual,M,63.4,60-70,Usa,Colorado,Home,No,2,Website,2,Corporate Buyers
+C0147,Individual,M,78.3,70+,Usa,Utah,Home,No,4,Client,2,Corporate Buyers
+C0148,Individual,M,57.2,50-60,Usa,Colorado,Investment,Yes,4,Agency,1,First-Time / Loan Buyers
+C0149,Individual,M,70.5,70+,Russia,Krasnodar Krai,Investment,No,3,Agency,2,Corporate Buyers
+C0150,Individual,M,57.8,50-60,Usa,California,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0151,Individual,F,49.8,40-50,Usa,Oregon,Home,No,1,Agency,2,Corporate Buyers
+C0152,Individual,F,59.4,50-60,Usa,California,Investment,Yes,2,Agency,1,First-Time / Loan Buyers
+C0153,Individual,F,43.3,40-50,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0154,Individual,F,61.4,60-70,Usa,California,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0155,Company,M,50.8,50-60,Usa,California,Investment,No,5,Agency,3,Luxury / High-Satisfaction
+C0156,Individual,F,60.1,60-70,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0157,Individual,M,74.1,70+,Usa,Colorado,Home,Yes,2,Client,1,First-Time / Loan Buyers
+C0158,Individual,F,46.5,40-50,Usa,Virginia,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C0159,Individual,M,84.2,70+,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0160,Individual,F,67.0,60-70,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0161,Individual,M,74.6,70+,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0162,Individual,M,72.8,70+,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0163,Individual,M,40.2,40-50,Usa,Utah,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C0164,Individual,M,39.7,30-40,Usa,Arizona,Home,No,5,Website,2,Corporate Buyers
+C0165,Individual,F,69.9,60-70,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0166,Individual,F,42.4,40-50,Usa,Arizona,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0167,Individual,F,71.4,70+,Uk,Scotland,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0168,Individual,F,66.0,60-70,Usa,Nevada,Home,No,3,Agency,2,Corporate Buyers
+C0169,Individual,M,35.8,30-40,Usa,Ohio,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C0170,Individual,M,77.0,70+,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0171,Individual,F,35.1,30-40,Usa,Washington,Investment,Yes,5,Client,1,First-Time / Loan Buyers
+C0172,Individual,F,33.8,30-40,Usa,Washington,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0173,Individual,F,49.9,40-50,Usa,Arizona,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0174,Individual,F,44.0,40-50,Usa,California,Investment,No,3,Client,2,Corporate Buyers
+C0175,Individual,M,64.2,60-70,Usa,Washington,Home,No,5,Agency,2,Corporate Buyers
+C0176,Individual,F,33.0,30-40,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0177,Individual,F,75.3,70+,Uk,England,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0178,Individual,F,73.5,70+,Usa,Virginia,Home,No,4,Agency,2,Corporate Buyers
+C0179,Individual,F,40.4,40-50,Usa,Oregon,Investment,No,2,Website,2,Corporate Buyers
+C0180,Individual,M,83.4,70+,Usa,California,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0181,Individual,M,56.1,50-60,Usa,Texas,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0182,Individual,F,54.5,50-60,Germany,North Rhine-Westphalia,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C0183,Individual,M,37.8,30-40,Usa,Nevada,Home,No,3,Website,2,Corporate Buyers
+C0184,Individual,M,32.4,30-40,Usa,Florida,Home,No,1,Website,2,Corporate Buyers
+C0185,Individual,F,81.0,70+,Usa,Nevada,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0186,Individual,F,44.2,40-50,Usa,Virginia,Home,No,1,Website,2,Corporate Buyers
+C0187,Individual,F,36.4,30-40,Usa,Florida,Home,No,1,Website,2,Corporate Buyers
+C0188,Individual,M,85.7,70+,Usa,Oregon,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0189,Individual,F,67.5,60-70,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C0190,Individual,F,54.7,50-60,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0191,Individual,F,49.1,40-50,Usa,Florida,Home,No,3,Agency,2,Corporate Buyers
+C0192,Individual,F,42.4,40-50,Belgium,Brussels,Investment,Yes,2,Website,0,Global Investors
+C0193,Individual,F,57.9,50-60,Usa,California,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C0194,Individual,M,72.8,70+,France,Ile-De-France,Home,Yes,5,Website,0,Global Investors
+C0195,Individual,M,79.0,70+,Usa,California,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0196,Individual,M,69.2,60-70,Usa,Nevada,Investment,No,5,Agency,2,Corporate Buyers
+C0197,Individual,M,82.0,70+,Usa,Virginia,Home,No,4,Client,2,Corporate Buyers
+C0198,Individual,F,50.4,50-60,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0199,Individual,M,68.2,60-70,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C0200,Individual,F,82.1,70+,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C0201,Individual,F,58.3,50-60,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C0202,Individual,M,29.6,<30,Canada,British Columbia,Home,No,1,Website,0,Global Investors
+C0203,Individual,F,70.1,70+,Usa,California,Home,No,4,Client,2,Corporate Buyers
+C0204,Individual,F,79.4,70+,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C0205,Individual,F,57.8,50-60,Mexico,Puebla,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0206,Individual,F,69.1,60-70,Usa,California,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0207,Individual,M,81.6,70+,Usa,Virginia,Investment,No,4,Website,2,Corporate Buyers
+C0208,Individual,M,40.2,40-50,France,Provence,Home,Yes,4,Agency,0,Global Investors
+C0209,Individual,M,76.8,70+,Usa,Arizona,Investment,No,3,Agency,2,Corporate Buyers
+C0210,Individual,F,83.2,70+,Usa,Colorado,Home,No,2,Website,2,Corporate Buyers
+C0211,Individual,F,54.3,50-60,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C0212,Individual,M,70.2,70+,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0213,Individual,M,49.7,40-50,Usa,Florida,Investment,No,5,Agency,2,Corporate Buyers
+C0214,Individual,F,79.9,70+,Belgium,Brussels,Investment,No,5,Website,0,Global Investors
+C0215,Individual,F,26.9,<30,Germany,Hamburg,Investment,No,4,Website,0,Global Investors
+C0216,Individual,M,26.9,<30,Usa,Utah,Home,No,1,Website,2,Corporate Buyers
+C0217,Individual,F,41.9,40-50,Usa,Colorado,Home,No,3,Website,2,Corporate Buyers
+C0218,Individual,F,56.4,50-60,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0219,Individual,M,38.4,30-40,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0220,Individual,M,75.0,70+,Canada,Ontario,Investment,No,1,Website,0,Global Investors
+C0221,Company,F,39.1,30-40,Usa,California,Home,No,5,Website,3,Luxury / High-Satisfaction
+C0222,Individual,M,69.6,60-70,Usa,Utah,Investment,No,3,Agency,2,Corporate Buyers
+C0223,Individual,M,52.6,50-60,Usa,Colorado,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C0224,Individual,M,65.8,60-70,Usa,Colorado,Home,No,5,Website,2,Corporate Buyers
+C0225,Individual,F,77.5,70+,Usa,California,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0226,Individual,F,67.9,60-70,Usa,Colorado,Home,No,2,Website,2,Corporate Buyers
+C0227,Individual,F,81.7,70+,Usa,Arizona,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0228,Individual,F,74.2,70+,Usa,Oregon,Investment,No,4,Website,2,Corporate Buyers
+C0229,Individual,M,44.6,40-50,Usa,Colorado,Investment,No,5,Website,2,Corporate Buyers
+C0230,Company,M,48.9,40-50,Usa,Nevada,Investment,Yes,4,Website,3,Luxury / High-Satisfaction
+C0231,Individual,M,32.5,30-40,Denmark,Central Denmark,Investment,Yes,2,Website,0,Global Investors
+C0232,Individual,F,64.1,60-70,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0233,Individual,M,28.8,<30,France,Provence,Home,Yes,4,Website,0,Global Investors
+C0234,Individual,F,47.3,40-50,Usa,New York,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0235,Individual,M,76.7,70+,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0236,Individual,M,53.9,50-60,Canada,Manitoba,Home,No,3,Agency,0,Global Investors
+C0237,Individual,M,41.6,40-50,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0238,Individual,F,44.4,40-50,Usa,Virginia,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0239,Individual,F,53.3,50-60,Usa,Oregon,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0240,Individual,F,84.1,70+,Usa,Colorado,Investment,No,3,Website,2,Corporate Buyers
+C0241,Individual,F,64.4,60-70,Mexico,Nuevo Leon,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0242,Individual,M,28.3,<30,Usa,Utah,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0243,Individual,F,47.9,40-50,Usa,Utah,Home,No,2,Website,2,Corporate Buyers
+C0244,Individual,F,27.9,<30,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C0245,Individual,M,52.4,50-60,Usa,Nevada,Investment,No,4,Agency,2,Corporate Buyers
+C0246,Individual,M,34.1,30-40,France,Normandy,Home,Yes,1,Agency,0,Global Investors
+C0247,Individual,M,61.4,60-70,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C0248,Individual,M,57.5,50-60,Usa,Florida,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0249,Individual,F,57.5,50-60,Usa,California,Investment,No,4,Agency,2,Corporate Buyers
+C0250,Individual,M,78.7,70+,Uk,England,Home,No,2,Agency,2,Corporate Buyers
+C0251,Individual,F,49.9,40-50,Usa,Utah,Home,No,5,Website,2,Corporate Buyers
+C0252,Individual,F,72.8,70+,Usa,Nevada,Investment,No,2,Website,2,Corporate Buyers
+C0253,Individual,F,31.8,30-40,Usa,Virginia,Home,No,4,Website,2,Corporate Buyers
+C0254,Individual,F,69.9,60-70,Usa,Florida,Home,No,5,Website,2,Corporate Buyers
+C0255,Individual,F,65.4,60-70,Uk,England,Investment,Yes,3,Client,1,First-Time / Loan Buyers
+C0256,Individual,M,35.5,30-40,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0257,Individual,M,51.7,50-60,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C0258,Individual,M,35.2,30-40,Uk,Northern Ireland,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0259,Individual,F,36.3,30-40,Usa,Oregon,Home,No,4,Website,2,Corporate Buyers
+C0260,Individual,F,79.9,70+,Usa,Nevada,Investment,No,3,Website,2,Corporate Buyers
+C0261,Company,F,41.1,40-50,Usa,Florida,Investment,Yes,4,Website,3,Luxury / High-Satisfaction
+C0262,Individual,M,79.1,70+,Usa,Oregon,Home,No,2,Website,2,Corporate Buyers
+C0263,Individual,M,44.9,40-50,Usa,Nevada,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C0264,Individual,F,33.8,30-40,Usa,Colorado,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0265,Company,M,59.2,50-60,Belgium,Flanders,Home,No,1,Website,3,Luxury / High-Satisfaction
+C0266,Individual,M,49.3,40-50,Usa,California,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0267,Individual,F,77.6,70+,Usa,Utah,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0268,Individual,F,67.3,60-70,Usa,Georgia,Investment,No,3,Website,2,Corporate Buyers
+C0269,Individual,M,57.4,50-60,Usa,New York,Home,No,2,Agency,2,Corporate Buyers
+C0270,Individual,F,81.9,70+,Usa,Florida,Home,No,5,Website,2,Corporate Buyers
+C0271,Individual,F,54.1,50-60,Usa,California,Investment,No,3,Agency,2,Corporate Buyers
+C0272,Individual,F,32.9,30-40,Uk,Scotland,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0273,Individual,M,39.3,30-40,Denmark,Zealand,Investment,No,2,Website,0,Global Investors
+C0274,Individual,M,75.7,70+,Usa,Florida,Home,No,2,Website,2,Corporate Buyers
+C0275,Individual,M,26.0,<30,Usa,Oregon,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0276,Individual,F,73.3,70+,Usa,Washington,Home,No,5,Website,2,Corporate Buyers
+C0277,Individual,M,71.6,70+,Usa,Colorado,Investment,Yes,1,Agency,1,First-Time / Loan Buyers
+C0278,Individual,F,70.9,70+,Usa,California,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C0279,Individual,F,59.1,50-60,Usa,Oregon,Home,No,1,Website,2,Corporate Buyers
+C0280,Individual,M,82.2,70+,Usa,Florida,Home,No,4,Client,2,Corporate Buyers
+C0281,Individual,F,49.2,40-50,Usa,California,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0282,Individual,F,28.7,<30,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C0283,Individual,F,64.1,60-70,Usa,Arizona,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0284,Individual,M,49.3,40-50,Usa,Arizona,Home,No,4,Client,2,Corporate Buyers
+C0285,Individual,M,27.3,<30,France,Ile-De-France,Investment,No,3,Website,0,Global Investors
+C0286,Individual,M,30.2,30-40,Uk,Scotland,Home,No,1,Agency,2,Corporate Buyers
+C0287,Individual,F,36.0,30-40,Australia,New South Wales,Home,No,5,Website,0,Global Investors
+C0288,Individual,M,28.6,<30,Usa,Colorado,Investment,No,4,Agency,2,Corporate Buyers
+C0289,Individual,F,33.0,30-40,Usa,California,Investment,No,5,Agency,2,Corporate Buyers
+C0290,Individual,M,64.5,60-70,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0291,Individual,M,73.0,70+,Usa,Nevada,Home,No,2,Agency,2,Corporate Buyers
+C0292,Individual,F,80.5,70+,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C0293,Individual,F,33.0,30-40,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C0294,Individual,M,62.9,60-70,Usa,Nevada,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0295,Individual,M,58.8,50-60,Russia,Tatarstan,Home,No,3,Agency,2,Corporate Buyers
+C0296,Individual,M,42.2,40-50,Canada,Manitoba,Home,Yes,1,Client,0,Global Investors
+C0297,Individual,F,53.6,50-60,Uk,Wales,Investment,No,5,Agency,2,Corporate Buyers
+C0298,Individual,F,53.6,50-60,Usa,Oregon,Home,No,3,Website,2,Corporate Buyers
+C0299,Individual,F,49.1,40-50,Uk,Wales,Home,No,5,Agency,2,Corporate Buyers
+C0300,Individual,M,67.2,60-70,Canada,Alberta,Home,Yes,5,Website,0,Global Investors
+C0301,Individual,F,67.3,60-70,Usa,Virginia,Home,No,4,Agency,2,Corporate Buyers
+C0302,Individual,F,49.9,40-50,Usa,Utah,Investment,No,1,Agency,2,Corporate Buyers
+C0303,Individual,F,68.9,60-70,Usa,Virginia,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0304,Individual,M,66.5,60-70,Usa,California,Investment,No,1,Agency,2,Corporate Buyers
+C0305,Individual,F,30.6,30-40,Usa,Arizona,Home,No,1,Website,2,Corporate Buyers
+C0306,Individual,M,38.2,30-40,Usa,California,Home,No,1,Client,2,Corporate Buyers
+C0307,Individual,M,33.7,30-40,Usa,California,Home,Yes,5,Client,1,First-Time / Loan Buyers
+C0308,Individual,F,53.7,50-60,Belgium,Flanders,Investment,Yes,4,Agency,0,Global Investors
+C0309,Individual,F,68.7,60-70,Usa,Washington,Home,No,4,Agency,2,Corporate Buyers
+C0310,Individual,M,34.1,30-40,Uk,Northern Ireland,Home,No,3,Website,2,Corporate Buyers
+C0311,Individual,M,74.3,70+,Usa,Georgia,Home,No,2,Website,2,Corporate Buyers
+C0312,Individual,M,85.4,70+,Usa,Nevada,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0313,Company,M,52.2,50-60,Usa,California,Home,No,1,Agency,3,Luxury / High-Satisfaction
+C0314,Individual,M,43.8,40-50,Usa,Washington,Investment,No,4,Agency,2,Corporate Buyers
+C0315,Individual,M,39.3,30-40,Mexico,Baja California,Investment,No,5,Website,2,Corporate Buyers
+C0316,Individual,M,29.2,<30,Uk,Scotland,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C0317,Individual,F,26.6,<30,Usa,California,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C0318,Individual,F,52.2,50-60,Germany,Berlin,Home,No,5,Website,0,Global Investors
+C0319,Company,F,30.6,30-40,Usa,Texas,Home,Yes,5,Website,3,Luxury / High-Satisfaction
+C0320,Individual,M,41.5,40-50,Usa,Texas,Home,Yes,3,Client,1,First-Time / Loan Buyers
+C0321,Individual,M,34.4,30-40,Usa,California,Investment,No,2,Agency,2,Corporate Buyers
+C0322,Individual,F,29.5,<30,Usa,California,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0323,Individual,F,50.8,50-60,Usa,California,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C0324,Individual,M,33.0,30-40,Usa,Washington,Home,No,4,Website,2,Corporate Buyers
+C0325,Individual,F,43.3,40-50,Usa,California,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0326,Individual,M,68.1,60-70,Usa,Oregon,Investment,Yes,4,Agency,1,First-Time / Loan Buyers
+C0327,Individual,F,64.9,60-70,Uk,Scotland,Home,No,1,Agency,2,Corporate Buyers
+C0328,Individual,M,79.7,70+,Usa,California,Home,Yes,1,Client,1,First-Time / Loan Buyers
+C0329,Individual,F,27.7,<30,Germany,Hesse,Home,No,3,Agency,0,Global Investors
+C0330,Individual,M,51.0,50-60,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C0331,Individual,F,42.1,40-50,Usa,California,Investment,No,3,Agency,2,Corporate Buyers
+C0332,Individual,M,36.5,30-40,Usa,Texas,Investment,No,3,Website,2,Corporate Buyers
+C0333,Individual,F,70.5,70+,Uk,Wales,Home,No,3,Website,2,Corporate Buyers
+C0334,Individual,M,75.9,70+,Usa,Arizona,Investment,No,3,Agency,2,Corporate Buyers
+C0335,Individual,M,50.5,50-60,Usa,Arizona,Home,No,4,Website,2,Corporate Buyers
+C0336,Individual,F,54.6,50-60,Usa,California,Investment,No,5,Agency,2,Corporate Buyers
+C0337,Individual,M,84.4,70+,Usa,Arizona,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0338,Individual,M,83.1,70+,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0339,Individual,M,62.7,60-70,Usa,Utah,Investment,No,5,Agency,2,Corporate Buyers
+C0340,Individual,M,85.6,70+,Usa,California,Investment,No,2,Agency,2,Corporate Buyers
+C0341,Individual,M,43.6,40-50,Usa,California,Investment,No,4,Agency,2,Corporate Buyers
+C0342,Individual,M,51.8,50-60,Usa,California,Investment,No,2,Client,2,Corporate Buyers
+C0343,Individual,F,74.0,70+,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0344,Individual,M,29.1,<30,Canada,British Columbia,Home,Yes,2,Website,0,Global Investors
+C0345,Individual,F,56.8,50-60,Usa,New York,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0346,Individual,F,63.0,60-70,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C0347,Individual,M,34.1,30-40,Usa,Washington,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0348,Individual,M,44.3,40-50,Usa,Colorado,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C0349,Individual,M,51.0,50-60,Usa,Arizona,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0350,Individual,M,33.5,30-40,Usa,Arizona,Home,No,2,Agency,2,Corporate Buyers
+C0351,Individual,F,64.5,60-70,Usa,Oregon,Home,No,5,Agency,2,Corporate Buyers
+C0352,Individual,F,49.0,40-50,Usa,Nevada,Investment,No,3,Agency,2,Corporate Buyers
+C0353,Individual,F,62.2,60-70,Usa,Arizona,Home,No,2,Agency,2,Corporate Buyers
+C0354,Individual,F,27.7,<30,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0355,Individual,M,74.7,70+,Mexico,Baja California,Investment,No,1,Website,2,Corporate Buyers
+C0356,Individual,F,50.0,40-50,Usa,Georgia,Home,No,3,Website,2,Corporate Buyers
+C0357,Individual,F,38.2,30-40,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0358,Individual,F,47.7,40-50,Australia,New South Wales,Home,Yes,3,Agency,0,Global Investors
+C0359,Individual,F,75.3,70+,Usa,California,Investment,No,1,Agency,2,Corporate Buyers
+C0360,Individual,F,77.8,70+,Usa,Utah,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0361,Individual,M,67.8,60-70,Uk,England,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0362,Individual,F,25.8,<30,Usa,Utah,Home,No,4,Website,2,Corporate Buyers
+C0363,Individual,F,67.4,60-70,Usa,Utah,Investment,No,2,Client,2,Corporate Buyers
+C0364,Individual,M,82.3,70+,Usa,Texas,Home,No,2,Website,2,Corporate Buyers
+C0365,Individual,M,64.4,60-70,Usa,Colorado,Investment,No,5,Agency,2,Corporate Buyers
+C0366,Individual,M,43.1,40-50,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0367,Individual,M,61.6,60-70,Usa,California,Investment,No,4,Agency,2,Corporate Buyers
+C0368,Individual,F,33.9,30-40,Usa,California,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0369,Individual,F,71.7,70+,Usa,Utah,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0370,Individual,F,68.7,60-70,Russia,Krasnodar Krai,Home,No,1,Website,2,Corporate Buyers
+C0371,Individual,M,56.3,50-60,Belgium,Wallonia,Investment,No,3,Agency,0,Global Investors
+C0372,Individual,F,74.2,70+,Belgium,Flanders,Investment,No,1,Agency,0,Global Investors
+C0373,Individual,F,33.4,30-40,Usa,Georgia,Home,No,2,Agency,2,Corporate Buyers
+C0374,Individual,F,32.6,30-40,Australia,New South Wales,Investment,Yes,4,Agency,0,Global Investors
+C0375,Individual,M,57.9,50-60,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C0376,Individual,F,73.2,70+,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0377,Individual,M,28.1,<30,Usa,Washington,Home,No,4,Website,2,Corporate Buyers
+C0378,Individual,F,68.6,60-70,Usa,California,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C0379,Company,M,49.2,40-50,Usa,California,Investment,Yes,2,Client,3,Luxury / High-Satisfaction
+C0380,Individual,F,52.8,50-60,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0381,Individual,M,65.4,60-70,Usa,California,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0382,Individual,M,50.9,50-60,Usa,California,Investment,Yes,1,Agency,1,First-Time / Loan Buyers
+C0383,Company,F,40.6,40-50,Mexico,Mexico City,Investment,No,3,Agency,3,Luxury / High-Satisfaction
+C0384,Individual,F,82.2,70+,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0385,Individual,M,57.4,50-60,Uk,Northern Ireland,Investment,No,4,Website,2,Corporate Buyers
+C0386,Individual,F,50.2,50-60,Usa,Colorado,Home,No,2,Client,2,Corporate Buyers
+C0387,Individual,F,51.9,50-60,Usa,California,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0388,Individual,M,30.7,30-40,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0389,Individual,M,71.6,70+,Usa,Colorado,Home,No,3,Website,2,Corporate Buyers
+C0390,Individual,M,84.2,70+,Canada,Quebec,Investment,No,2,Website,0,Global Investors
+C0391,Individual,F,59.6,50-60,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C0392,Individual,F,49.0,40-50,Usa,Arizona,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0393,Individual,F,38.0,30-40,Usa,Arizona,Home,No,4,Agency,2,Corporate Buyers
+C0394,Individual,F,71.6,70+,Usa,Colorado,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0395,Individual,F,67.4,60-70,Usa,Florida,Home,No,1,Website,2,Corporate Buyers
+C0396,Individual,M,26.2,<30,Usa,Nevada,Home,No,5,Agency,2,Corporate Buyers
+C0397,Individual,F,25.7,<30,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0398,Individual,F,77.5,70+,Usa,Texas,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0399,Individual,M,42.0,40-50,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0400,Individual,M,66.6,60-70,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0401,Individual,M,56.9,50-60,Usa,Arizona,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0402,Individual,F,85.3,70+,Usa,Georgia,Home,No,5,Website,2,Corporate Buyers
+C0403,Individual,F,63.2,60-70,Australia,New South Wales,Home,No,1,Website,0,Global Investors
+C0404,Individual,F,49.5,40-50,France,Normandy,Investment,No,1,Client,0,Global Investors
+C0405,Company,M,56.5,50-60,Usa,Colorado,Home,No,1,Agency,3,Luxury / High-Satisfaction
+C0406,Individual,F,66.1,60-70,Usa,Colorado,Home,No,3,Website,2,Corporate Buyers
+C0407,Individual,F,44.2,40-50,Usa,California,Home,No,2,Client,2,Corporate Buyers
+C0408,Individual,M,49.4,40-50,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0409,Individual,M,53.7,50-60,Usa,Nevada,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0410,Individual,F,43.9,40-50,Russia,Saint Petersburg,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0411,Individual,F,43.1,40-50,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0412,Individual,F,42.2,40-50,Uk,Scotland,Home,No,5,Website,2,Corporate Buyers
+C0413,Individual,M,85.9,70+,Canada,British Columbia,Home,No,3,Website,0,Global Investors
+C0414,Individual,M,63.5,60-70,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0415,Individual,F,45.9,40-50,Usa,Nevada,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0416,Company,M,44.9,40-50,Germany,North Rhine-Westphalia,Investment,Yes,5,Client,3,Luxury / High-Satisfaction
+C0417,Individual,M,78.5,70+,Usa,Utah,Home,No,2,Website,2,Corporate Buyers
+C0418,Individual,M,29.8,<30,Usa,Arizona,Home,No,5,Agency,2,Corporate Buyers
+C0419,Individual,M,63.6,60-70,Usa,Washington,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0420,Individual,F,32.5,30-40,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C0421,Individual,M,50.8,50-60,Germany,Hesse,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0422,Company,F,52.6,50-60,Usa,California,Home,Yes,1,Client,3,Luxury / High-Satisfaction
+C0423,Individual,F,76.2,70+,Usa,California,Home,No,1,Client,2,Corporate Buyers
+C0424,Individual,F,27.5,<30,Usa,Florida,Home,No,1,Website,2,Corporate Buyers
+C0425,Individual,M,61.3,60-70,Usa,Nevada,Home,No,2,Agency,2,Corporate Buyers
+C0426,Individual,F,72.7,70+,Usa,Oregon,Home,Yes,4,Client,1,First-Time / Loan Buyers
+C0427,Individual,F,31.8,30-40,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0428,Individual,F,63.9,60-70,Usa,Oregon,Home,No,3,Agency,2,Corporate Buyers
+C0429,Individual,F,30.6,30-40,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0430,Individual,M,51.7,50-60,Usa,Nevada,Home,No,2,Agency,2,Corporate Buyers
+C0431,Individual,M,57.1,50-60,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0432,Company,M,31.3,30-40,Usa,California,Home,No,5,Agency,3,Luxury / High-Satisfaction
+C0433,Individual,F,57.3,50-60,Usa,California,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C0434,Individual,F,61.5,60-70,Russia,Tatarstan,Home,No,5,Website,2,Corporate Buyers
+C0435,Individual,F,60.4,60-70,Australia,New South Wales,Home,Yes,5,Website,0,Global Investors
+C0436,Individual,M,54.1,50-60,Usa,Colorado,Home,Yes,2,Client,1,First-Time / Loan Buyers
+C0437,Individual,F,35.7,30-40,Usa,Texas,Home,No,1,Website,2,Corporate Buyers
+C0438,Individual,M,43.7,40-50,Usa,Georgia,Investment,Yes,1,Client,1,First-Time / Loan Buyers
+C0439,Individual,M,70.3,70+,Usa,Virginia,Home,No,2,Agency,2,Corporate Buyers
+C0440,Individual,M,65.9,60-70,Usa,California,Investment,No,1,Agency,2,Corporate Buyers
+C0441,Individual,F,45.7,40-50,Russia,Krasnodar Krai,Investment,No,1,Agency,2,Corporate Buyers
+C0442,Individual,F,51.2,50-60,Usa,Colorado,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0443,Individual,M,76.0,70+,Denmark,Capital Region,Home,Yes,1,Agency,0,Global Investors
+C0444,Individual,F,85.3,70+,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0445,Individual,F,30.6,30-40,Usa,California,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0446,Individual,M,71.4,70+,Usa,Colorado,Home,No,2,Website,2,Corporate Buyers
+C0447,Individual,F,70.0,60-70,Usa,New York,Home,No,2,Website,2,Corporate Buyers
+C0448,Individual,M,46.0,40-50,Usa,Nevada,Investment,No,2,Agency,2,Corporate Buyers
+C0449,Individual,M,54.0,50-60,Usa,Oregon,Investment,No,2,Agency,2,Corporate Buyers
+C0450,Individual,M,34.3,30-40,Mexico,Nuevo Leon,Home,No,3,Website,2,Corporate Buyers
+C0451,Individual,M,40.7,40-50,Canada,Alberta,Investment,Yes,5,Client,0,Global Investors
+C0452,Individual,M,58.7,50-60,Usa,Washington,Home,No,3,Website,2,Corporate Buyers
+C0453,Individual,M,33.2,30-40,Uk,Scotland,Investment,No,1,Website,2,Corporate Buyers
+C0454,Company,F,65.2,60-70,Usa,Nevada,Investment,No,4,Agency,3,Luxury / High-Satisfaction
+C0455,Individual,F,63.4,60-70,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C0456,Individual,F,30.6,30-40,Usa,Oregon,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0457,Individual,M,45.9,40-50,Uk,Wales,Investment,No,1,Agency,2,Corporate Buyers
+C0458,Individual,M,31.0,30-40,Usa,Oregon,Investment,No,1,Agency,2,Corporate Buyers
+C0459,Individual,M,71.2,70+,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C0460,Individual,F,33.5,30-40,Usa,Virginia,Home,No,1,Website,2,Corporate Buyers
+C0461,Individual,M,66.3,60-70,Usa,Arizona,Home,No,1,Agency,2,Corporate Buyers
+C0462,Individual,M,82.7,70+,Australia,Victoria,Home,No,2,Agency,0,Global Investors
+C0463,Individual,M,56.0,50-60,Usa,California,Home,No,5,Client,2,Corporate Buyers
+C0464,Individual,M,51.5,50-60,Usa,Florida,Home,No,5,Website,2,Corporate Buyers
+C0465,Individual,M,76.8,70+,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0466,Individual,F,38.1,30-40,Usa,Virginia,Investment,No,2,Website,2,Corporate Buyers
+C0467,Individual,F,74.2,70+,Usa,Ohio,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0468,Individual,M,73.6,70+,Mexico,Jalisco,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C0469,Individual,M,29.2,<30,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0470,Individual,F,63.3,60-70,Usa,Oregon,Home,No,1,Agency,2,Corporate Buyers
+C0471,Individual,M,42.0,40-50,Usa,Utah,Investment,No,3,Agency,2,Corporate Buyers
+C0472,Individual,M,74.7,70+,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0473,Individual,F,44.9,40-50,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C0474,Individual,M,30.5,30-40,Usa,Nevada,Home,No,1,Website,2,Corporate Buyers
+C0475,Individual,M,79.8,70+,Belgium,Wallonia,Investment,Yes,2,Agency,0,Global Investors
+C0476,Individual,M,29.2,<30,Usa,Florida,Home,No,3,Agency,2,Corporate Buyers
+C0477,Individual,M,42.4,40-50,Usa,California,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C0478,Individual,F,85.9,70+,Usa,Ohio,Investment,No,4,Website,2,Corporate Buyers
+C0479,Individual,F,48.2,40-50,Usa,California,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0480,Individual,M,51.8,50-60,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0481,Individual,M,49.5,40-50,Usa,Arizona,Home,No,3,Agency,2,Corporate Buyers
+C0482,Individual,F,45.7,40-50,Usa,New York,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C0483,Individual,M,40.6,40-50,Usa,Arizona,Investment,No,1,Website,2,Corporate Buyers
+C0484,Individual,F,37.2,30-40,Usa,Texas,Investment,No,3,Website,2,Corporate Buyers
+C0485,Individual,F,34.7,30-40,Usa,Arizona,Home,No,2,Website,2,Corporate Buyers
+C0486,Individual,M,26.8,<30,Usa,California,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C0487,Individual,F,34.7,30-40,Usa,Washington,Home,No,5,Website,2,Corporate Buyers
+C0488,Individual,F,47.1,40-50,Usa,California,Investment,No,4,Agency,2,Corporate Buyers
+C0489,Individual,M,76.0,70+,Germany,Berlin,Investment,No,2,Website,0,Global Investors
+C0490,Individual,F,72.4,70+,Usa,Nevada,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0491,Individual,M,84.9,70+,Usa,Washington,Home,No,2,Website,2,Corporate Buyers
+C0492,Individual,M,26.1,<30,Usa,Utah,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0493,Individual,M,72.0,70+,Usa,Colorado,Home,No,3,Website,2,Corporate Buyers
+C0494,Individual,F,35.9,30-40,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0495,Individual,M,72.3,70+,Usa,California,Investment,No,5,Client,2,Corporate Buyers
+C0496,Individual,M,36.5,30-40,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0497,Individual,F,41.4,40-50,Usa,Arizona,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C0498,Individual,F,77.6,70+,Canada,Alberta,Home,Yes,2,Website,0,Global Investors
+C0499,Individual,F,80.4,70+,Usa,Colorado,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0500,Individual,M,49.3,40-50,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0501,Individual,M,30.6,30-40,Usa,Nevada,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C0502,Individual,F,59.6,50-60,Usa,Arizona,Home,No,4,Website,2,Corporate Buyers
+C0503,Individual,M,82.7,70+,Usa,Utah,Investment,Yes,2,Client,1,First-Time / Loan Buyers
+C0504,Individual,M,34.4,30-40,Usa,Utah,Home,No,2,Website,2,Corporate Buyers
+C0505,Individual,F,30.9,30-40,Usa,Arizona,Home,No,3,Agency,2,Corporate Buyers
+C0506,Individual,M,59.0,50-60,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C0507,Individual,M,75.3,70+,Usa,New York,Home,No,3,Website,2,Corporate Buyers
+C0508,Individual,F,56.4,50-60,Usa,Nevada,Home,No,5,Agency,2,Corporate Buyers
+C0509,Individual,M,70.2,70+,Belgium,Wallonia,Home,No,3,Website,0,Global Investors
+C0510,Individual,F,78.8,70+,France,Brittany,Investment,Yes,1,Website,0,Global Investors
+C0511,Individual,F,71.9,70+,Uk,England,Home,No,2,Website,2,Corporate Buyers
+C0512,Individual,F,81.0,70+,Usa,Arizona,Home,No,1,Client,2,Corporate Buyers
+C0513,Individual,M,27.3,<30,Usa,Florida,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0514,Individual,F,48.8,40-50,Usa,Oregon,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0515,Individual,F,62.8,60-70,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0516,Individual,M,80.2,70+,Usa,Utah,Home,No,3,Website,2,Corporate Buyers
+C0517,Individual,M,67.2,60-70,Usa,California,Home,No,5,Client,2,Corporate Buyers
+C0518,Company,F,64.1,60-70,Usa,New York,Home,No,3,Website,3,Luxury / High-Satisfaction
+C0519,Individual,F,50.7,50-60,Usa,Arizona,Investment,No,3,Agency,2,Corporate Buyers
+C0520,Individual,F,56.4,50-60,Usa,Oregon,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0521,Individual,F,59.2,50-60,Canada,British Columbia,Home,No,3,Website,0,Global Investors
+C0522,Individual,F,83.9,70+,Usa,Virginia,Home,No,5,Agency,2,Corporate Buyers
+C0523,Individual,F,65.8,60-70,Usa,Colorado,Home,No,2,Agency,2,Corporate Buyers
+C0524,Individual,M,73.1,70+,Usa,Washington,Home,No,3,Website,2,Corporate Buyers
+C0525,Individual,M,76.0,70+,Usa,Arizona,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0526,Individual,M,58.3,50-60,Germany,Bavaria,Home,No,5,Website,0,Global Investors
+C0527,Individual,M,46.9,40-50,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0528,Individual,M,25.9,<30,Usa,Washington,Investment,No,2,Client,2,Corporate Buyers
+C0529,Individual,M,52.6,50-60,Usa,Nevada,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0530,Individual,F,73.8,70+,Usa,Utah,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0531,Individual,F,49.7,40-50,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C0532,Individual,F,46.9,40-50,Belgium,Flanders,Home,No,2,Website,0,Global Investors
+C0533,Individual,M,62.8,60-70,Usa,Nevada,Investment,No,1,Agency,2,Corporate Buyers
+C0534,Individual,M,68.3,60-70,Usa,California,Investment,No,1,Agency,2,Corporate Buyers
+C0535,Individual,F,38.5,30-40,Uk,Wales,Home,No,3,Agency,2,Corporate Buyers
+C0536,Individual,F,70.3,70+,Usa,Arizona,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0537,Individual,M,64.2,60-70,Usa,Florida,Home,No,2,Client,2,Corporate Buyers
+C0538,Individual,M,57.2,50-60,Usa,California,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0539,Individual,M,35.3,30-40,Usa,California,Investment,Yes,1,Agency,1,First-Time / Loan Buyers
+C0540,Individual,F,29.3,<30,Usa,New York,Home,No,3,Agency,2,Corporate Buyers
+C0541,Individual,M,26.2,<30,Uk,Northern Ireland,Home,No,3,Agency,2,Corporate Buyers
+C0542,Company,M,40.7,40-50,Mexico,Mexico City,Home,No,3,Website,3,Luxury / High-Satisfaction
+C0543,Individual,F,78.9,70+,Usa,Texas,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0544,Individual,M,51.7,50-60,Usa,Utah,Home,No,2,Website,2,Corporate Buyers
+C0545,Individual,M,83.9,70+,Usa,Colorado,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0546,Individual,M,58.5,50-60,Canada,Manitoba,Home,No,4,Client,0,Global Investors
+C0547,Individual,F,78.7,70+,Usa,California,Investment,No,2,Agency,2,Corporate Buyers
+C0548,Individual,M,46.2,40-50,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C0549,Individual,M,53.7,50-60,Usa,Florida,Home,No,4,Website,2,Corporate Buyers
+C0550,Company,F,59.2,50-60,Usa,Nevada,Home,No,1,Agency,3,Luxury / High-Satisfaction
+C0551,Individual,M,66.1,60-70,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C0552,Individual,M,60.7,60-70,Usa,Virginia,Investment,No,3,Agency,2,Corporate Buyers
+C0553,Individual,M,47.6,40-50,Usa,Arizona,Home,No,3,Website,2,Corporate Buyers
+C0554,Individual,M,77.5,70+,Australia,Victoria,Home,Yes,1,Agency,0,Global Investors
+C0555,Individual,M,55.2,50-60,Usa,California,Investment,Yes,4,Agency,1,First-Time / Loan Buyers
+C0556,Individual,M,67.7,60-70,Usa,Colorado,Home,No,5,Website,2,Corporate Buyers
+C0557,Individual,F,84.7,70+,Usa,Utah,Investment,No,2,Website,2,Corporate Buyers
+C0558,Individual,F,51.7,50-60,Denmark,North Denmark,Home,No,3,Website,0,Global Investors
+C0559,Company,M,56.8,50-60,Usa,California,Home,No,5,Client,3,Luxury / High-Satisfaction
+C0560,Individual,F,38.2,30-40,Australia,South Australia,Home,No,3,Website,0,Global Investors
+C0561,Company,F,63.6,60-70,Usa,Arizona,Investment,No,3,Website,3,Luxury / High-Satisfaction
+C0562,Individual,F,85.6,70+,Usa,Utah,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0563,Individual,M,35.4,30-40,Usa,California,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0564,Individual,M,73.8,70+,Usa,Texas,Home,No,1,Agency,2,Corporate Buyers
+C0565,Individual,M,40.7,40-50,France,Brittany,Home,No,1,Website,0,Global Investors
+C0566,Individual,F,25.5,<30,Usa,Oregon,Investment,Yes,4,Agency,1,First-Time / Loan Buyers
+C0567,Individual,F,72.7,70+,Russia,Saint Petersburg,Investment,Yes,2,Agency,1,First-Time / Loan Buyers
+C0568,Individual,M,72.8,70+,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0569,Individual,F,54.5,50-60,Usa,California,Home,Yes,5,Client,1,First-Time / Loan Buyers
+C0570,Individual,F,61.0,60-70,France,Occitanie,Home,Yes,5,Website,0,Global Investors
+C0571,Individual,M,60.0,50-60,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0572,Individual,F,32.6,30-40,Usa,California,Investment,No,5,Website,2,Corporate Buyers
+C0573,Company,M,49.2,40-50,Usa,Georgia,Home,Yes,4,Agency,3,Luxury / High-Satisfaction
+C0574,Individual,M,57.8,50-60,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C0575,Individual,M,60.4,60-70,Usa,California,Investment,No,2,Website,2,Corporate Buyers
+C0576,Individual,M,67.3,60-70,Germany,Hamburg,Home,No,1,Client,0,Global Investors
+C0577,Individual,M,37.1,30-40,Usa,Arizona,Home,No,3,Website,2,Corporate Buyers
+C0578,Individual,F,26.9,<30,Usa,Arizona,Home,Yes,5,Client,1,First-Time / Loan Buyers
+C0579,Individual,M,84.8,70+,Usa,Texas,Investment,No,3,Website,2,Corporate Buyers
+C0580,Individual,F,77.6,70+,Usa,California,Home,Yes,2,Client,1,First-Time / Loan Buyers
+C0581,Individual,F,68.5,60-70,Usa,California,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0582,Individual,F,86.4,70+,Usa,Washington,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C0583,Individual,M,39.6,30-40,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C0584,Individual,F,43.6,40-50,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0585,Individual,M,65.4,60-70,Usa,Colorado,Home,No,3,Agency,2,Corporate Buyers
+C0586,Individual,M,49.0,40-50,Usa,California,Home,Yes,2,Client,1,First-Time / Loan Buyers
+C0587,Individual,F,33.6,30-40,Usa,New York,Home,No,4,Website,2,Corporate Buyers
+C0588,Individual,F,36.6,30-40,Usa,Florida,Home,No,2,Website,2,Corporate Buyers
+C0589,Individual,M,79.7,70+,Usa,Texas,Investment,No,5,Client,2,Corporate Buyers
+C0590,Individual,M,59.8,50-60,Uk,Scotland,Investment,No,2,Website,2,Corporate Buyers
+C0591,Individual,F,57.8,50-60,Usa,Nevada,Home,No,1,Website,2,Corporate Buyers
+C0592,Individual,M,54.3,50-60,Usa,Arizona,Investment,No,2,Client,2,Corporate Buyers
+C0593,Individual,F,73.9,70+,Usa,California,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0594,Individual,F,83.9,70+,Usa,Utah,Home,No,1,Agency,2,Corporate Buyers
+C0595,Individual,F,59.7,50-60,Usa,Utah,Home,No,3,Agency,2,Corporate Buyers
+C0596,Individual,M,50.2,50-60,Usa,Nevada,Home,No,4,Agency,2,Corporate Buyers
+C0597,Individual,M,40.3,40-50,Uk,Northern Ireland,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0598,Individual,M,77.0,70+,Usa,Colorado,Investment,No,4,Website,2,Corporate Buyers
+C0599,Individual,F,28.3,<30,Canada,Alberta,Home,No,2,Agency,0,Global Investors
+C0600,Individual,M,42.3,40-50,Usa,Oregon,Investment,No,1,Client,2,Corporate Buyers
+C0601,Individual,F,53.7,50-60,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0602,Individual,M,42.2,40-50,Germany,Bavaria,Home,No,4,Agency,0,Global Investors
+C0603,Individual,F,32.4,30-40,Usa,New York,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0604,Individual,F,27.8,<30,Belgium,Wallonia,Home,No,1,Agency,0,Global Investors
+C0605,Individual,M,52.0,50-60,Usa,Utah,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0606,Individual,F,76.5,70+,France,Ile-De-France,Investment,No,1,Website,0,Global Investors
+C0607,Individual,M,63.8,60-70,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C0608,Individual,M,70.0,60-70,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0609,Individual,F,65.1,60-70,Usa,Washington,Home,No,4,Agency,2,Corporate Buyers
+C0610,Individual,F,56.1,50-60,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C0611,Individual,M,75.5,70+,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0612,Individual,M,66.4,60-70,Usa,Florida,Home,No,4,Agency,2,Corporate Buyers
+C0613,Individual,F,30.7,30-40,Australia,Victoria,Home,No,4,Agency,0,Global Investors
+C0614,Individual,M,54.4,50-60,Uk,Wales,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0615,Individual,M,69.4,60-70,Usa,Utah,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0616,Individual,F,63.2,60-70,Usa,Virginia,Investment,Yes,1,Agency,1,First-Time / Loan Buyers
+C0617,Individual,F,39.7,30-40,Usa,Ohio,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0618,Individual,M,58.1,50-60,Usa,Texas,Home,No,3,Agency,2,Corporate Buyers
+C0619,Individual,F,56.2,50-60,Usa,Washington,Home,No,4,Website,2,Corporate Buyers
+C0620,Individual,F,66.2,60-70,France,Brittany,Home,No,3,Website,0,Global Investors
+C0621,Individual,M,44.3,40-50,Germany,Bavaria,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C0622,Individual,F,38.7,30-40,Usa,Washington,Investment,No,2,Client,2,Corporate Buyers
+C0623,Individual,M,40.1,40-50,Usa,Florida,Investment,Yes,3,Client,1,First-Time / Loan Buyers
+C0624,Individual,M,25.8,<30,Usa,Nevada,Investment,No,3,Agency,2,Corporate Buyers
+C0625,Individual,F,42.9,40-50,Belgium,Flanders,Investment,Yes,2,Agency,0,Global Investors
+C0626,Individual,F,58.0,50-60,Germany,Hamburg,Investment,No,2,Website,0,Global Investors
+C0627,Individual,F,25.6,<30,Usa,Arizona,Home,No,3,Agency,2,Corporate Buyers
+C0628,Individual,M,41.1,40-50,Canada,British Columbia,Home,Yes,3,Agency,0,Global Investors
+C0629,Individual,F,79.9,70+,Usa,California,Investment,No,2,Agency,2,Corporate Buyers
+C0630,Individual,M,60.9,60-70,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0631,Individual,F,59.5,50-60,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0632,Individual,M,78.1,70+,Uk,Northern Ireland,Home,No,4,Website,2,Corporate Buyers
+C0633,Individual,F,85.1,70+,Usa,Nevada,Home,No,3,Agency,2,Corporate Buyers
+C0634,Individual,M,45.6,40-50,Usa,Washington,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C0635,Individual,F,66.0,60-70,Uk,Scotland,Investment,No,5,Website,2,Corporate Buyers
+C0636,Individual,F,45.6,40-50,France,Brittany,Home,No,5,Website,0,Global Investors
+C0637,Individual,F,58.8,50-60,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0638,Individual,M,51.4,50-60,Usa,Ohio,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0639,Individual,M,65.3,60-70,Uk,Scotland,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0640,Individual,F,59.3,50-60,Usa,Utah,Home,No,3,Agency,2,Corporate Buyers
+C0641,Company,M,32.3,30-40,Usa,Arizona,Home,No,2,Agency,3,Luxury / High-Satisfaction
+C0642,Individual,F,58.6,50-60,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0643,Individual,F,52.1,50-60,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0644,Individual,F,69.8,60-70,Usa,California,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0645,Individual,M,37.9,30-40,Usa,Nevada,Home,No,2,Client,2,Corporate Buyers
+C0646,Individual,F,30.9,30-40,Usa,Arizona,Investment,No,5,Agency,2,Corporate Buyers
+C0647,Individual,F,80.4,70+,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0648,Individual,F,27.3,<30,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0649,Individual,F,31.3,30-40,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0650,Company,M,50.3,50-60,France,Occitanie,Home,Yes,3,Client,3,Luxury / High-Satisfaction
+C0651,Company,M,33.4,30-40,Usa,Washington,Home,No,1,Agency,3,Luxury / High-Satisfaction
+C0652,Individual,F,32.5,30-40,Usa,Washington,Home,No,2,Website,2,Corporate Buyers
+C0653,Individual,M,55.9,50-60,Usa,Ohio,Home,No,2,Client,2,Corporate Buyers
+C0654,Individual,M,66.1,60-70,Usa,New York,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0655,Individual,F,76.1,70+,Usa,Nevada,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0656,Individual,F,49.4,40-50,Usa,Colorado,Home,No,5,Client,2,Corporate Buyers
+C0657,Individual,M,69.7,60-70,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C0658,Individual,F,26.5,<30,Usa,Virginia,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0659,Individual,F,37.7,30-40,Usa,California,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0660,Individual,M,34.9,30-40,Usa,Arizona,Home,Yes,4,Client,1,First-Time / Loan Buyers
+C0661,Individual,F,65.0,60-70,Canada,Manitoba,Home,No,3,Website,0,Global Investors
+C0662,Individual,F,68.8,60-70,Usa,California,Investment,No,3,Website,2,Corporate Buyers
+C0663,Individual,M,68.4,60-70,Usa,California,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0664,Individual,M,67.8,60-70,Canada,Alberta,Investment,Yes,5,Website,0,Global Investors
+C0665,Individual,M,66.8,60-70,Usa,Colorado,Investment,No,1,Agency,2,Corporate Buyers
+C0666,Individual,F,77.7,70+,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C0667,Individual,M,60.0,50-60,Usa,Arizona,Investment,No,2,Agency,2,Corporate Buyers
+C0668,Individual,F,47.6,40-50,France,Ile-De-France,Investment,Yes,4,Website,0,Global Investors
+C0669,Individual,F,68.3,60-70,Canada,British Columbia,Home,No,3,Agency,0,Global Investors
+C0670,Company,M,50.0,40-50,Usa,Nevada,Investment,No,4,Website,3,Luxury / High-Satisfaction
+C0671,Individual,M,84.5,70+,Usa,Colorado,Home,Yes,4,Client,1,First-Time / Loan Buyers
+C0672,Individual,F,59.3,50-60,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0673,Individual,F,60.7,60-70,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0674,Individual,F,40.1,40-50,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C0675,Individual,F,56.5,50-60,Usa,Texas,Home,No,5,Website,2,Corporate Buyers
+C0676,Individual,F,84.0,70+,Usa,Nevada,Home,No,2,Agency,2,Corporate Buyers
+C0677,Individual,M,44.8,40-50,Usa,Arizona,Investment,No,2,Agency,2,Corporate Buyers
+C0678,Individual,M,53.7,50-60,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0679,Individual,F,61.5,60-70,Usa,Nevada,Home,No,1,Agency,2,Corporate Buyers
+C0680,Individual,M,61.2,60-70,Usa,Utah,Investment,No,2,Agency,2,Corporate Buyers
+C0681,Company,F,49.1,40-50,Usa,California,Home,No,3,Agency,3,Luxury / High-Satisfaction
+C0682,Individual,M,53.0,50-60,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0683,Individual,M,77.8,70+,Usa,Colorado,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0684,Individual,M,40.7,40-50,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C0685,Individual,F,39.2,30-40,Usa,Washington,Home,No,5,Agency,2,Corporate Buyers
+C0686,Individual,M,62.6,60-70,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0687,Individual,F,67.5,60-70,Usa,Utah,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0688,Individual,F,57.5,50-60,Usa,Colorado,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0689,Individual,F,28.2,<30,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0690,Individual,F,40.8,40-50,Usa,Oregon,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0691,Individual,M,82.9,70+,Usa,California,Investment,No,4,Agency,2,Corporate Buyers
+C0692,Individual,M,62.3,60-70,Usa,Georgia,Investment,No,3,Agency,2,Corporate Buyers
+C0693,Individual,M,69.1,60-70,Usa,California,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C0694,Company,M,36.9,30-40,Uk,Scotland,Investment,No,2,Website,3,Luxury / High-Satisfaction
+C0695,Individual,M,79.2,70+,Usa,Washington,Home,No,4,Website,2,Corporate Buyers
+C0696,Individual,F,32.3,30-40,Usa,Washington,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C0697,Individual,M,39.6,30-40,Usa,California,Investment,Yes,4,Agency,1,First-Time / Loan Buyers
+C0698,Individual,F,79.9,70+,Usa,California,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0699,Individual,M,39.5,30-40,Usa,Washington,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0700,Individual,F,82.2,70+,Usa,Washington,Home,No,5,Website,2,Corporate Buyers
+C0701,Individual,F,63.8,60-70,Uk,England,Investment,No,1,Website,2,Corporate Buyers
+C0702,Individual,M,59.9,50-60,Usa,Arizona,Home,No,5,Agency,2,Corporate Buyers
+C0703,Company,M,42.1,40-50,Usa,Colorado,Home,No,3,Website,3,Luxury / High-Satisfaction
+C0704,Individual,F,84.4,70+,Usa,Georgia,Home,No,4,Agency,2,Corporate Buyers
+C0705,Individual,M,85.5,70+,Usa,Nevada,Home,No,3,Website,2,Corporate Buyers
+C0706,Individual,M,42.0,40-50,Uk,England,Investment,No,2,Client,2,Corporate Buyers
+C0707,Individual,M,30.7,30-40,Usa,Virginia,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0708,Individual,M,61.6,60-70,Usa,California,Home,No,2,Client,2,Corporate Buyers
+C0709,Individual,F,43.6,40-50,Usa,Georgia,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0710,Individual,M,79.8,70+,Usa,Oregon,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0711,Individual,F,30.7,30-40,Usa,California,Investment,No,3,Agency,2,Corporate Buyers
+C0712,Individual,M,35.4,30-40,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C0713,Individual,F,29.3,<30,Usa,California,Investment,No,3,Agency,2,Corporate Buyers
+C0714,Individual,M,49.5,40-50,Russia,Saint Petersburg,Home,No,3,Website,2,Corporate Buyers
+C0715,Individual,F,43.9,40-50,Usa,Utah,Home,No,3,Website,2,Corporate Buyers
+C0716,Individual,M,31.7,30-40,Uk,Northern Ireland,Home,No,1,Client,2,Corporate Buyers
+C0717,Individual,F,80.0,70+,Usa,Arizona,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C0718,Individual,F,81.7,70+,France,Ile-De-France,Home,Yes,2,Website,0,Global Investors
+C0719,Individual,M,52.0,50-60,Usa,California,Investment,Yes,2,Agency,1,First-Time / Loan Buyers
+C0720,Individual,F,45.1,40-50,Usa,California,Investment,Yes,1,Agency,1,First-Time / Loan Buyers
+C0721,Individual,F,27.3,<30,Usa,Florida,Home,No,4,Website,2,Corporate Buyers
+C0722,Individual,F,82.8,70+,Usa,Texas,Home,No,1,Website,2,Corporate Buyers
+C0723,Individual,F,27.2,<30,Germany,North Rhine-Westphalia,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0724,Individual,M,65.7,60-70,Usa,Arizona,Investment,Yes,4,Agency,1,First-Time / Loan Buyers
+C0725,Individual,F,43.0,40-50,Usa,New York,Home,No,3,Website,2,Corporate Buyers
+C0726,Individual,F,49.4,40-50,Usa,Georgia,Home,No,4,Website,2,Corporate Buyers
+C0727,Individual,M,84.8,70+,Usa,California,Investment,Yes,3,Client,1,First-Time / Loan Buyers
+C0728,Individual,M,54.9,50-60,Usa,California,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0729,Individual,M,82.5,70+,Usa,Washington,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C0730,Individual,M,38.1,30-40,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C0731,Individual,M,25.7,<30,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C0732,Individual,M,41.3,40-50,Usa,Oregon,Home,No,5,Website,2,Corporate Buyers
+C0733,Individual,F,50.5,50-60,Usa,Nevada,Home,No,5,Agency,2,Corporate Buyers
+C0734,Individual,F,45.0,40-50,Usa,Virginia,Investment,Yes,5,Client,1,First-Time / Loan Buyers
+C0735,Individual,M,31.9,30-40,Germany,Hesse,Investment,No,4,Website,0,Global Investors
+C0736,Individual,M,84.0,70+,Usa,Utah,Investment,No,3,Agency,2,Corporate Buyers
+C0737,Individual,M,47.8,40-50,Usa,California,Investment,No,3,Agency,2,Corporate Buyers
+C0738,Individual,M,45.7,40-50,Usa,Texas,Home,No,5,Website,2,Corporate Buyers
+C0739,Individual,M,61.3,60-70,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C0740,Individual,F,59.5,50-60,Usa,Utah,Investment,No,1,Client,2,Corporate Buyers
+C0741,Individual,F,63.9,60-70,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0742,Individual,M,45.8,40-50,Uk,Wales,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0743,Individual,M,53.8,50-60,Usa,Oregon,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C0744,Individual,F,75.6,70+,Usa,Virginia,Home,No,1,Website,2,Corporate Buyers
+C0745,Individual,F,29.0,<30,Usa,California,Investment,No,5,Website,2,Corporate Buyers
+C0746,Individual,M,69.7,60-70,Uk,Scotland,Home,No,4,Website,2,Corporate Buyers
+C0747,Individual,M,34.2,30-40,Usa,Florida,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0748,Company,F,52.3,50-60,Usa,California,Home,Yes,1,Client,3,Luxury / High-Satisfaction
+C0749,Individual,F,33.6,30-40,Usa,New York,Home,No,5,Agency,2,Corporate Buyers
+C0750,Individual,F,50.0,40-50,Usa,Nevada,Investment,No,1,Agency,2,Corporate Buyers
+C0751,Individual,M,51.7,50-60,Usa,California,Home,No,5,Client,2,Corporate Buyers
+C0752,Individual,F,71.5,70+,Belgium,Brussels,Investment,No,3,Agency,0,Global Investors
+C0753,Individual,M,65.5,60-70,Germany,Hamburg,Home,No,5,Website,0,Global Investors
+C0754,Individual,F,55.8,50-60,Usa,Arizona,Investment,No,3,Website,2,Corporate Buyers
+C0755,Company,F,58.5,50-60,Usa,California,Home,No,5,Website,3,Luxury / High-Satisfaction
+C0756,Individual,F,63.3,60-70,Usa,Utah,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0757,Individual,M,80.1,70+,Usa,Oregon,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0758,Individual,M,67.9,60-70,Usa,California,Investment,No,2,Website,2,Corporate Buyers
+C0759,Individual,M,34.6,30-40,Usa,Florida,Home,No,4,Website,2,Corporate Buyers
+C0760,Individual,F,61.5,60-70,Usa,California,Investment,No,3,Website,2,Corporate Buyers
+C0761,Individual,F,44.8,40-50,Belgium,Flanders,Home,No,2,Agency,0,Global Investors
+C0762,Individual,F,59.0,50-60,Usa,Ohio,Home,No,4,Website,2,Corporate Buyers
+C0763,Company,F,54.9,50-60,Usa,Georgia,Home,No,3,Agency,3,Luxury / High-Satisfaction
+C0764,Individual,F,43.4,40-50,Uk,Northern Ireland,Investment,No,4,Client,2,Corporate Buyers
+C0765,Individual,M,59.0,50-60,France,Brittany,Home,No,3,Website,0,Global Investors
+C0766,Individual,M,31.8,30-40,Germany,North Rhine-Westphalia,Home,Yes,3,Client,1,First-Time / Loan Buyers
+C0767,Individual,M,65.4,60-70,Canada,British Columbia,Investment,No,2,Agency,0,Global Investors
+C0768,Individual,M,33.9,30-40,Denmark,Southern Denmark,Investment,Yes,5,Website,0,Global Investors
+C0769,Individual,F,68.3,60-70,Usa,Ohio,Home,No,4,Agency,2,Corporate Buyers
+C0770,Individual,F,75.4,70+,Russia,Krasnodar Krai,Home,No,4,Website,2,Corporate Buyers
+C0771,Company,M,42.0,40-50,Usa,California,Home,No,1,Website,3,Luxury / High-Satisfaction
+C0772,Individual,M,34.7,30-40,Usa,California,Investment,No,1,Client,2,Corporate Buyers
+C0773,Individual,M,61.5,60-70,Russia,Saint Petersburg,Home,No,1,Website,2,Corporate Buyers
+C0774,Individual,M,43.2,40-50,Usa,Georgia,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0775,Individual,F,50.5,50-60,Usa,Arizona,Home,No,1,Agency,2,Corporate Buyers
+C0776,Individual,F,60.0,50-60,Germany,Bavaria,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0777,Company,M,44.1,40-50,Usa,Arizona,Home,No,1,Client,3,Luxury / High-Satisfaction
+C0778,Individual,M,27.9,<30,Usa,California,Investment,Yes,4,Agency,1,First-Time / Loan Buyers
+C0779,Individual,F,73.2,70+,Usa,California,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0780,Individual,F,78.9,70+,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0781,Individual,M,85.6,70+,Usa,California,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0782,Individual,M,55.7,50-60,Usa,Utah,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C0783,Individual,F,65.2,60-70,Canada,Alberta,Home,Yes,1,Agency,0,Global Investors
+C0784,Individual,M,53.0,50-60,Mexico,Baja California,Investment,No,4,Website,2,Corporate Buyers
+C0785,Company,F,55.2,50-60,Usa,California,Home,No,2,Website,3,Luxury / High-Satisfaction
+C0786,Individual,F,43.2,40-50,Usa,California,Investment,No,3,Website,2,Corporate Buyers
+C0787,Individual,M,75.6,70+,Usa,Washington,Home,No,1,Website,2,Corporate Buyers
+C0788,Individual,M,82.1,70+,France,Brittany,Investment,No,4,Website,0,Global Investors
+C0789,Individual,F,52.2,50-60,Canada,Ontario,Investment,No,1,Website,0,Global Investors
+C0790,Individual,M,52.4,50-60,Usa,California,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0791,Individual,M,43.4,40-50,Usa,Texas,Home,No,4,Website,2,Corporate Buyers
+C0792,Individual,M,44.2,40-50,Usa,California,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C0793,Individual,M,56.8,50-60,Usa,New York,Home,No,4,Agency,2,Corporate Buyers
+C0794,Individual,M,75.4,70+,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0795,Individual,M,57.4,50-60,Usa,California,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C0796,Individual,F,43.2,40-50,Usa,California,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0797,Individual,F,36.0,30-40,Usa,Oregon,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0798,Company,M,60.7,60-70,Usa,Nevada,Home,Yes,4,Agency,3,Luxury / High-Satisfaction
+C0799,Individual,F,71.9,70+,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0800,Individual,M,52.5,50-60,Usa,Virginia,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0801,Individual,F,57.2,50-60,Usa,Washington,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0802,Individual,M,55.6,50-60,Usa,Virginia,Home,No,5,Agency,2,Corporate Buyers
+C0803,Individual,F,80.5,70+,Usa,Texas,Home,No,4,Agency,2,Corporate Buyers
+C0804,Individual,M,59.4,50-60,Usa,Washington,Home,No,5,Agency,2,Corporate Buyers
+C0805,Individual,M,73.4,70+,Germany,Berlin,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0806,Individual,M,36.6,30-40,France,Ile-De-France,Home,No,5,Client,0,Global Investors
+C0807,Individual,F,32.6,30-40,Mexico,Mexico City,Investment,No,5,Website,2,Corporate Buyers
+C0808,Individual,M,83.1,70+,Germany,Berlin,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0809,Individual,F,59.3,50-60,France,Occitanie,Home,Yes,5,Agency,0,Global Investors
+C0810,Individual,M,31.3,30-40,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0811,Individual,M,81.2,70+,Uk,Wales,Home,No,3,Agency,2,Corporate Buyers
+C0812,Individual,M,51.8,50-60,Uk,Northern Ireland,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0813,Individual,M,51.7,50-60,Uk,Scotland,Investment,No,3,Agency,2,Corporate Buyers
+C0814,Individual,F,62.2,60-70,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0815,Company,F,60.6,60-70,Usa,Nevada,Home,Yes,4,Agency,3,Luxury / High-Satisfaction
+C0816,Individual,F,78.5,70+,Germany,Hamburg,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0817,Individual,F,54.1,50-60,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C0818,Company,F,34.8,30-40,Usa,Colorado,Home,No,2,Website,3,Luxury / High-Satisfaction
+C0819,Individual,M,75.3,70+,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0820,Individual,F,85.7,70+,Usa,Texas,Investment,No,4,Agency,2,Corporate Buyers
+C0821,Individual,F,68.8,60-70,Usa,California,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0822,Individual,F,67.2,60-70,Usa,California,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C0823,Individual,F,51.2,50-60,Usa,Oregon,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C0824,Individual,M,50.0,40-50,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C0825,Individual,F,44.2,40-50,Mexico,Nuevo Leon,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0826,Individual,M,55.8,50-60,Usa,Ohio,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C0827,Individual,F,60.8,60-70,Usa,Washington,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0828,Individual,F,78.7,70+,Usa,Arizona,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C0829,Individual,M,65.6,60-70,Usa,Utah,Investment,No,3,Website,2,Corporate Buyers
+C0830,Individual,M,74.1,70+,Usa,Oregon,Investment,No,3,Agency,2,Corporate Buyers
+C0831,Individual,F,48.7,40-50,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0832,Individual,F,36.4,30-40,Usa,Nevada,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C0833,Individual,M,74.6,70+,Denmark,Southern Denmark,Home,No,5,Website,0,Global Investors
+C0834,Individual,F,68.5,60-70,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C0835,Individual,F,52.0,50-60,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0836,Individual,M,84.4,70+,Usa,Ohio,Home,No,4,Website,2,Corporate Buyers
+C0837,Individual,M,59.0,50-60,France,Brittany,Home,No,1,Website,0,Global Investors
+C0838,Individual,M,34.2,30-40,Usa,Nevada,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C0839,Individual,F,32.4,30-40,Uk,England,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C0840,Individual,F,44.6,40-50,Belgium,Brussels,Home,No,1,Website,0,Global Investors
+C0841,Individual,M,27.4,<30,Belgium,Wallonia,Home,No,5,Website,0,Global Investors
+C0842,Individual,M,30.3,30-40,Usa,Washington,Home,Yes,5,Client,1,First-Time / Loan Buyers
+C0843,Individual,F,25.5,<30,Usa,Georgia,Home,No,4,Agency,2,Corporate Buyers
+C0844,Individual,F,79.0,70+,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C0845,Individual,F,32.8,30-40,Usa,Washington,Home,No,3,Client,2,Corporate Buyers
+C0846,Individual,F,50.1,50-60,Canada,Quebec,Investment,No,3,Agency,0,Global Investors
+C0847,Individual,F,38.3,30-40,Usa,Utah,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0848,Individual,M,58.6,50-60,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0849,Individual,M,49.2,40-50,Usa,Oregon,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0850,Individual,F,42.6,40-50,Usa,Colorado,Investment,No,5,Agency,2,Corporate Buyers
+C0851,Individual,M,33.1,30-40,Usa,California,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C0852,Individual,M,36.9,30-40,Germany,North Rhine-Westphalia,Home,No,2,Agency,0,Global Investors
+C0853,Individual,M,75.9,70+,Usa,Utah,Home,No,4,Website,2,Corporate Buyers
+C0854,Individual,M,82.3,70+,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0855,Individual,F,53.3,50-60,Australia,Queensland,Home,No,4,Website,0,Global Investors
+C0856,Individual,F,61.8,60-70,Usa,Florida,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0857,Individual,F,75.1,70+,Usa,California,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C0858,Individual,M,31.9,30-40,Usa,Nevada,Home,No,1,Website,2,Corporate Buyers
+C0859,Individual,F,83.5,70+,Usa,California,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0860,Individual,F,57.9,50-60,Usa,Utah,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0861,Individual,F,31.9,30-40,France,Brittany,Investment,No,2,Agency,0,Global Investors
+C0862,Individual,F,45.0,40-50,Usa,Colorado,Investment,No,1,Website,2,Corporate Buyers
+C0863,Individual,M,51.2,50-60,Belgium,Wallonia,Home,Yes,5,Agency,0,Global Investors
+C0864,Individual,M,56.0,50-60,Usa,Texas,Home,No,3,Website,2,Corporate Buyers
+C0865,Individual,F,51.1,50-60,Usa,Colorado,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0866,Individual,M,38.6,30-40,Belgium,Brussels,Home,No,3,Agency,0,Global Investors
+C0867,Individual,F,59.2,50-60,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C0868,Individual,F,81.3,70+,Usa,Florida,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0869,Individual,M,33.3,30-40,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0870,Company,F,59.8,50-60,Uk,Northern Ireland,Home,Yes,2,Website,3,Luxury / High-Satisfaction
+C0871,Individual,F,36.6,30-40,Usa,Virginia,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0872,Individual,F,83.0,70+,Uk,England,Home,No,4,Website,2,Corporate Buyers
+C0873,Individual,M,85.8,70+,Usa,New York,Home,No,2,Website,2,Corporate Buyers
+C0874,Individual,F,72.9,70+,Belgium,Flanders,Investment,No,2,Website,0,Global Investors
+C0875,Individual,M,53.9,50-60,Canada,Manitoba,Home,No,4,Website,0,Global Investors
+C0876,Individual,M,52.8,50-60,Usa,California,Home,No,3,Client,2,Corporate Buyers
+C0877,Individual,F,27.5,<30,Usa,Utah,Investment,Yes,2,Agency,1,First-Time / Loan Buyers
+C0878,Individual,F,81.1,70+,Usa,Nevada,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0879,Individual,M,81.3,70+,Uk,Northern Ireland,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0880,Individual,F,85.0,70+,Usa,New York,Home,No,2,Website,2,Corporate Buyers
+C0881,Individual,F,71.7,70+,Usa,Colorado,Investment,No,1,Website,2,Corporate Buyers
+C0882,Individual,M,25.9,<30,Uk,Wales,Home,No,3,Website,2,Corporate Buyers
+C0883,Individual,M,79.7,70+,Usa,Texas,Home,No,4,Client,2,Corporate Buyers
+C0884,Individual,M,77.1,70+,Usa,Nevada,Home,No,2,Website,2,Corporate Buyers
+C0885,Individual,M,84.7,70+,Canada,British Columbia,Investment,Yes,2,Agency,0,Global Investors
+C0886,Individual,M,64.9,60-70,Usa,California,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0887,Individual,F,33.2,30-40,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C0888,Individual,F,39.1,30-40,Germany,Berlin,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0889,Individual,M,40.7,40-50,Usa,Nevada,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C0890,Individual,F,70.9,70+,Usa,Virginia,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C0891,Individual,M,56.0,50-60,Germany,North Rhine-Westphalia,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C0892,Individual,F,68.0,60-70,Usa,California,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C0893,Individual,F,31.0,30-40,Usa,Colorado,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C0894,Individual,M,73.0,70+,Usa,Georgia,Home,No,5,Website,2,Corporate Buyers
+C0895,Individual,F,72.8,70+,Usa,Arizona,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C0896,Individual,M,56.1,50-60,France,Brittany,Home,Yes,4,Agency,0,Global Investors
+C0897,Individual,F,54.9,50-60,Australia,Victoria,Home,No,1,Website,0,Global Investors
+C0898,Individual,F,72.7,70+,Usa,Arizona,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C0899,Company,F,38.0,30-40,Usa,Washington,Investment,No,2,Website,3,Luxury / High-Satisfaction
+C0900,Individual,F,27.1,<30,Germany,North Rhine-Westphalia,Home,No,4,Agency,0,Global Investors
+C0901,Individual,M,27.3,<30,France,Brittany,Investment,No,4,Agency,0,Global Investors
+C0902,Company,F,62.4,60-70,Uk,Northern Ireland,Home,Yes,3,Agency,3,Luxury / High-Satisfaction
+C0903,Individual,F,34.1,30-40,Usa,Texas,Investment,No,3,Website,2,Corporate Buyers
+C0904,Individual,F,42.3,40-50,Russia,Saint Petersburg,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0905,Individual,F,33.1,30-40,Usa,Virginia,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C0906,Individual,F,56.8,50-60,Usa,California,Investment,No,5,Website,2,Corporate Buyers
+C0907,Individual,F,52.6,50-60,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C0908,Individual,M,65.6,60-70,Usa,California,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C0909,Individual,M,58.9,50-60,Usa,California,Investment,Yes,1,Agency,1,First-Time / Loan Buyers
+C0910,Individual,F,54.6,50-60,Usa,Texas,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0911,Individual,M,37.2,30-40,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0912,Individual,F,77.1,70+,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C0913,Individual,M,27.4,<30,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C0914,Individual,F,77.7,70+,France,Provence,Investment,No,4,Website,0,Global Investors
+C0915,Individual,M,78.4,70+,Usa,Florida,Home,No,2,Agency,2,Corporate Buyers
+C0916,Individual,M,38.4,30-40,Russia,Moscow Oblast,Home,No,2,Website,2,Corporate Buyers
+C0917,Individual,M,56.9,50-60,Usa,Arizona,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C0918,Individual,F,26.3,<30,Australia,Western Australia,Home,No,4,Client,0,Global Investors
+C0919,Individual,F,50.8,50-60,Canada,Quebec,Investment,No,5,Agency,0,Global Investors
+C0920,Individual,M,52.7,50-60,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0921,Individual,F,27.3,<30,Australia,New South Wales,Home,No,4,Agency,0,Global Investors
+C0922,Individual,M,83.6,70+,Australia,Victoria,Investment,Yes,4,Website,0,Global Investors
+C0923,Individual,F,75.8,70+,Usa,Oregon,Home,No,3,Client,2,Corporate Buyers
+C0924,Individual,F,38.2,30-40,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0925,Individual,M,82.1,70+,Germany,Hamburg,Home,No,2,Website,0,Global Investors
+C0926,Individual,F,65.2,60-70,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0927,Individual,F,63.6,60-70,France,Ile-De-France,Home,No,4,Client,0,Global Investors
+C0928,Individual,M,76.3,70+,Usa,California,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0929,Individual,M,72.1,70+,Usa,Washington,Home,No,4,Website,2,Corporate Buyers
+C0930,Individual,F,33.2,30-40,Usa,Washington,Investment,Yes,1,Agency,1,First-Time / Loan Buyers
+C0931,Individual,M,48.5,40-50,Usa,Nevada,Investment,Yes,2,Client,1,First-Time / Loan Buyers
+C0932,Individual,F,76.9,70+,Usa,New York,Home,No,5,Website,2,Corporate Buyers
+C0933,Individual,F,70.8,70+,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0934,Individual,F,82.7,70+,Uk,Northern Ireland,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0935,Individual,F,26.1,<30,Canada,Manitoba,Home,No,4,Agency,0,Global Investors
+C0936,Individual,F,75.2,70+,Usa,California,Home,No,3,Client,2,Corporate Buyers
+C0937,Individual,M,44.2,40-50,Usa,Arizona,Home,No,5,Client,2,Corporate Buyers
+C0938,Individual,M,63.1,60-70,Russia,Krasnodar Krai,Home,No,4,Website,2,Corporate Buyers
+C0939,Individual,F,48.4,40-50,Belgium,Brussels,Investment,No,1,Website,0,Global Investors
+C0940,Individual,M,40.5,40-50,Usa,Virginia,Investment,No,5,Website,2,Corporate Buyers
+C0941,Individual,F,70.9,70+,Mexico,Jalisco,Home,No,1,Agency,2,Corporate Buyers
+C0942,Individual,F,34.5,30-40,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C0943,Individual,F,68.8,60-70,Canada,Manitoba,Investment,No,5,Website,0,Global Investors
+C0944,Individual,F,69.8,60-70,Usa,Florida,Home,No,2,Website,2,Corporate Buyers
+C0945,Individual,F,80.8,70+,France,Provence,Home,No,4,Website,0,Global Investors
+C0946,Individual,F,80.0,70+,Usa,Nevada,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C0947,Individual,F,45.1,40-50,Usa,Texas,Home,No,2,Website,2,Corporate Buyers
+C0948,Individual,F,36.5,30-40,Usa,California,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C0949,Individual,F,83.0,70+,Usa,Colorado,Investment,Yes,5,Client,1,First-Time / Loan Buyers
+C0950,Individual,F,34.5,30-40,Usa,Texas,Investment,No,5,Website,2,Corporate Buyers
+C0951,Individual,F,27.6,<30,Mexico,Nuevo Leon,Home,Yes,1,Client,1,First-Time / Loan Buyers
+C0952,Individual,F,66.8,60-70,Usa,Oregon,Home,No,5,Website,2,Corporate Buyers
+C0953,Company,M,30.7,30-40,Usa,Washington,Home,Yes,5,Website,3,Luxury / High-Satisfaction
+C0954,Individual,M,76.2,70+,France,Brittany,Investment,Yes,4,Agency,0,Global Investors
+C0955,Individual,F,57.4,50-60,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C0956,Individual,M,60.3,60-70,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0957,Company,M,65.1,60-70,Usa,Oregon,Home,Yes,2,Client,3,Luxury / High-Satisfaction
+C0958,Individual,F,34.9,30-40,Usa,Nevada,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0959,Individual,M,73.8,70+,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C0960,Individual,F,66.2,60-70,Usa,Arizona,Investment,Yes,1,Client,1,First-Time / Loan Buyers
+C0961,Individual,M,51.9,50-60,Uk,Wales,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0962,Individual,M,85.9,70+,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0963,Individual,M,84.9,70+,Canada,Alberta,Home,No,4,Agency,0,Global Investors
+C0964,Individual,F,72.7,70+,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C0965,Individual,F,64.7,60-70,Usa,New York,Investment,No,3,Website,2,Corporate Buyers
+C0966,Company,M,30.7,30-40,Usa,California,Investment,No,3,Website,3,Luxury / High-Satisfaction
+C0967,Individual,F,67.4,60-70,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C0968,Individual,F,30.6,30-40,Usa,Arizona,Home,No,4,Website,2,Corporate Buyers
+C0969,Individual,F,50.2,50-60,Russia,Tatarstan,Investment,Yes,1,Agency,1,First-Time / Loan Buyers
+C0970,Individual,M,39.5,30-40,Denmark,North Denmark,Home,Yes,3,Website,0,Global Investors
+C0971,Individual,F,57.0,50-60,Usa,Colorado,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C0972,Individual,F,61.8,60-70,Usa,Arizona,Home,No,5,Agency,2,Corporate Buyers
+C0973,Individual,M,33.5,30-40,Usa,California,Investment,No,2,Client,2,Corporate Buyers
+C0974,Individual,M,65.1,60-70,Usa,New York,Home,No,1,Agency,2,Corporate Buyers
+C0975,Individual,M,79.9,70+,Usa,Utah,Home,No,4,Website,2,Corporate Buyers
+C0976,Individual,M,42.9,40-50,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0977,Individual,M,30.2,30-40,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C0978,Individual,F,62.6,60-70,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C0979,Individual,F,86.3,70+,Canada,Quebec,Investment,No,4,Website,0,Global Investors
+C0980,Individual,M,84.4,70+,Usa,New York,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C0981,Individual,F,64.6,60-70,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C0982,Individual,F,64.9,60-70,Canada,Manitoba,Investment,Yes,5,Agency,0,Global Investors
+C0983,Individual,F,32.0,30-40,Germany,North Rhine-Westphalia,Home,No,4,Website,0,Global Investors
+C0984,Individual,M,63.5,60-70,Canada,British Columbia,Home,Yes,5,Agency,0,Global Investors
+C0985,Individual,F,71.7,70+,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C0986,Individual,F,44.7,40-50,Russia,Saint Petersburg,Home,No,2,Website,2,Corporate Buyers
+C0987,Individual,F,58.7,50-60,Germany,North Rhine-Westphalia,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C0988,Individual,M,38.2,30-40,Usa,Texas,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C0989,Individual,F,79.7,70+,Usa,Oregon,Home,No,4,Website,2,Corporate Buyers
+C0990,Individual,M,84.4,70+,Usa,Utah,Home,No,4,Website,2,Corporate Buyers
+C0991,Individual,F,51.2,50-60,Usa,Nevada,Home,No,1,Website,2,Corporate Buyers
+C0992,Individual,M,37.6,30-40,Denmark,Capital Region,Home,Yes,1,Website,0,Global Investors
+C0993,Individual,M,72.3,70+,Usa,California,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C0994,Individual,M,49.6,40-50,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C0995,Individual,F,76.7,70+,Australia,New South Wales,Home,Yes,1,Website,0,Global Investors
+C0996,Individual,M,70.0,60-70,Canada,Manitoba,Home,Yes,2,Client,0,Global Investors
+C0997,Individual,M,76.3,70+,Usa,California,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C0998,Company,F,57.1,50-60,Usa,Virginia,Home,No,4,Agency,3,Luxury / High-Satisfaction
+C0999,Individual,F,56.8,50-60,Usa,California,Investment,No,3,Agency,2,Corporate Buyers
+C1000,Individual,F,62.9,60-70,Usa,Utah,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1001,Individual,M,44.9,40-50,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1002,Individual,M,59.0,50-60,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C1003,Individual,F,48.9,40-50,Usa,Nevada,Home,No,2,Website,2,Corporate Buyers
+C1004,Individual,M,43.8,40-50,Usa,Oregon,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1005,Individual,F,38.0,30-40,Germany,Hamburg,Home,No,3,Client,0,Global Investors
+C1006,Individual,F,33.5,30-40,Usa,Georgia,Home,No,1,Website,2,Corporate Buyers
+C1007,Individual,F,77.6,70+,Uk,England,Home,No,4,Agency,2,Corporate Buyers
+C1008,Company,M,38.7,30-40,Usa,California,Home,No,2,Website,3,Luxury / High-Satisfaction
+C1009,Individual,F,76.4,70+,Usa,Nevada,Investment,Yes,4,Agency,1,First-Time / Loan Buyers
+C1010,Individual,M,62.3,60-70,Mexico,Jalisco,Home,No,4,Website,2,Corporate Buyers
+C1011,Individual,F,73.5,70+,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1012,Individual,M,65.7,60-70,Usa,New York,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1013,Individual,F,32.0,30-40,Usa,Oregon,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1014,Individual,M,57.4,50-60,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1015,Individual,M,48.8,40-50,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1016,Individual,F,50.2,50-60,Usa,California,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1017,Individual,F,57.5,50-60,Usa,California,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1018,Individual,F,59.0,50-60,Usa,Colorado,Home,Yes,5,Client,1,First-Time / Loan Buyers
+C1019,Individual,F,50.6,50-60,Usa,Nevada,Home,No,2,Client,2,Corporate Buyers
+C1020,Individual,F,31.9,30-40,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C1021,Individual,M,51.8,50-60,Usa,California,Investment,No,1,Client,2,Corporate Buyers
+C1022,Individual,F,42.2,40-50,Usa,Colorado,Home,No,1,Agency,2,Corporate Buyers
+C1023,Individual,F,72.9,70+,Usa,Nevada,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1024,Individual,M,56.9,50-60,Usa,Arizona,Investment,No,2,Agency,2,Corporate Buyers
+C1025,Individual,F,79.4,70+,Usa,California,Home,No,1,Client,2,Corporate Buyers
+C1026,Individual,M,34.9,30-40,Usa,California,Investment,No,1,Agency,2,Corporate Buyers
+C1027,Individual,M,49.5,40-50,Usa,California,Investment,Yes,1,Client,1,First-Time / Loan Buyers
+C1028,Individual,M,84.2,70+,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1029,Individual,M,76.6,70+,Australia,Victoria,Home,No,1,Agency,0,Global Investors
+C1030,Individual,F,66.2,60-70,Usa,Ohio,Home,No,4,Website,2,Corporate Buyers
+C1031,Individual,M,37.4,30-40,Uk,England,Home,No,1,Website,2,Corporate Buyers
+C1032,Individual,M,49.5,40-50,Usa,Nevada,Home,No,5,Website,2,Corporate Buyers
+C1033,Individual,M,64.0,60-70,France,Ile-De-France,Home,No,2,Website,0,Global Investors
+C1034,Individual,F,47.4,40-50,Usa,Colorado,Home,No,5,Client,2,Corporate Buyers
+C1035,Individual,M,65.4,60-70,Usa,Virginia,Home,No,2,Website,2,Corporate Buyers
+C1036,Individual,F,38.3,30-40,Usa,Oregon,Home,No,2,Agency,2,Corporate Buyers
+C1037,Company,M,56.5,50-60,Mexico,Baja California,Home,Yes,2,Website,3,Luxury / High-Satisfaction
+C1038,Individual,M,67.1,60-70,Usa,California,Investment,No,3,Website,2,Corporate Buyers
+C1039,Individual,M,63.9,60-70,Usa,California,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1040,Individual,M,86.2,70+,Usa,California,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1041,Individual,F,35.5,30-40,Usa,Nevada,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1042,Individual,F,80.9,70+,Usa,Nevada,Home,No,2,Agency,2,Corporate Buyers
+C1043,Individual,F,26.9,<30,Usa,Washington,Home,No,5,Website,2,Corporate Buyers
+C1044,Individual,M,55.1,50-60,Usa,Nevada,Investment,No,5,Website,2,Corporate Buyers
+C1045,Individual,F,84.2,70+,Usa,New York,Home,No,3,Website,2,Corporate Buyers
+C1046,Individual,F,57.1,50-60,Canada,Quebec,Home,Yes,4,Website,0,Global Investors
+C1047,Individual,M,41.5,40-50,Usa,Virginia,Home,No,3,Website,2,Corporate Buyers
+C1048,Individual,F,56.4,50-60,Usa,Oregon,Investment,No,1,Agency,2,Corporate Buyers
+C1049,Individual,F,85.6,70+,Usa,California,Investment,No,5,Website,2,Corporate Buyers
+C1050,Individual,M,70.7,70+,Usa,Georgia,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1051,Individual,F,67.9,60-70,Usa,Virginia,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1052,Individual,F,73.2,70+,Usa,Utah,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1053,Individual,M,51.6,50-60,Mexico,Nuevo Leon,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1054,Individual,M,36.8,30-40,Usa,Arizona,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1055,Individual,M,53.6,50-60,Usa,New York,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C1056,Individual,M,47.4,40-50,Usa,Colorado,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1057,Individual,M,32.2,30-40,Usa,Nevada,Investment,No,5,Website,2,Corporate Buyers
+C1058,Individual,F,53.0,50-60,Germany,Bavaria,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1059,Individual,F,48.0,40-50,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C1060,Individual,M,85.5,70+,Usa,Nevada,Home,No,5,Agency,2,Corporate Buyers
+C1061,Individual,F,66.0,60-70,Uk,Scotland,Home,No,1,Website,2,Corporate Buyers
+C1062,Individual,M,50.5,50-60,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C1063,Individual,F,37.5,30-40,Usa,New York,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1064,Individual,M,80.9,70+,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1065,Individual,M,71.4,70+,Usa,Georgia,Home,Yes,3,Client,1,First-Time / Loan Buyers
+C1066,Individual,F,84.7,70+,Australia,Victoria,Home,No,1,Website,0,Global Investors
+C1067,Individual,M,83.5,70+,Mexico,Jalisco,Investment,No,4,Agency,2,Corporate Buyers
+C1068,Individual,F,42.4,40-50,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C1069,Individual,M,34.0,30-40,Usa,Virginia,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1070,Individual,F,75.0,70+,Germany,Bavaria,Home,No,5,Agency,0,Global Investors
+C1071,Individual,M,59.9,50-60,Usa,Texas,Home,No,2,Agency,2,Corporate Buyers
+C1072,Individual,F,64.0,60-70,Usa,Utah,Home,No,3,Agency,2,Corporate Buyers
+C1073,Individual,M,71.0,70+,Usa,California,Investment,No,2,Website,2,Corporate Buyers
+C1074,Individual,M,71.9,70+,Uk,Northern Ireland,Home,No,1,Website,2,Corporate Buyers
+C1075,Individual,F,51.3,50-60,Mexico,Baja California,Home,No,3,Website,2,Corporate Buyers
+C1076,Individual,F,45.6,40-50,Usa,Florida,Investment,No,3,Agency,2,Corporate Buyers
+C1077,Individual,M,44.3,40-50,Usa,Texas,Investment,No,2,Agency,2,Corporate Buyers
+C1078,Individual,M,85.9,70+,Usa,Ohio,Home,No,1,Agency,2,Corporate Buyers
+C1079,Individual,M,67.0,60-70,Usa,California,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1080,Individual,F,69.7,60-70,Uk,England,Investment,No,4,Agency,2,Corporate Buyers
+C1081,Company,M,51.8,50-60,Russia,Novosibirsk,Home,Yes,4,Agency,3,Luxury / High-Satisfaction
+C1082,Individual,F,33.4,30-40,Usa,Oregon,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1083,Individual,F,75.7,70+,Usa,Colorado,Investment,No,4,Agency,2,Corporate Buyers
+C1084,Individual,F,36.9,30-40,France,Ile-De-France,Home,No,4,Agency,0,Global Investors
+C1085,Individual,F,78.7,70+,Australia,Queensland,Investment,No,1,Client,0,Global Investors
+C1086,Individual,M,70.3,70+,Usa,Colorado,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1087,Individual,M,42.5,40-50,Usa,Colorado,Home,No,3,Website,2,Corporate Buyers
+C1088,Individual,M,27.7,<30,Usa,Utah,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1089,Individual,F,63.8,60-70,Usa,Utah,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1090,Individual,F,63.8,60-70,Canada,Alberta,Home,Yes,3,Client,0,Global Investors
+C1091,Individual,M,41.9,40-50,Usa,Nevada,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1092,Individual,M,29.6,<30,Usa,Oregon,Investment,No,2,Website,2,Corporate Buyers
+C1093,Individual,M,45.9,40-50,Usa,Oregon,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1094,Individual,F,66.3,60-70,Usa,Washington,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1095,Individual,F,86.3,70+,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C1096,Individual,F,61.1,60-70,Usa,New York,Home,No,2,Client,2,Corporate Buyers
+C1097,Individual,F,63.9,60-70,Canada,Alberta,Home,Yes,3,Agency,0,Global Investors
+C1098,Individual,M,49.7,40-50,Usa,California,Investment,No,3,Client,2,Corporate Buyers
+C1099,Individual,F,54.0,50-60,Usa,Colorado,Home,No,3,Agency,2,Corporate Buyers
+C1100,Individual,M,86.1,70+,Russia,Novosibirsk,Home,No,1,Website,2,Corporate Buyers
+C1101,Individual,M,62.5,60-70,Belgium,Flanders,Home,No,5,Website,0,Global Investors
+C1102,Company,M,66.1,60-70,Germany,Berlin,Home,No,2,Agency,3,Luxury / High-Satisfaction
+C1103,Individual,M,65.1,60-70,Belgium,Wallonia,Home,No,4,Agency,0,Global Investors
+C1104,Individual,M,27.7,<30,Usa,Utah,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1105,Individual,M,86.4,70+,Usa,Nevada,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1106,Individual,M,44.1,40-50,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1107,Individual,M,78.4,70+,Canada,British Columbia,Home,No,1,Website,0,Global Investors
+C1108,Individual,F,32.4,30-40,Australia,South Australia,Home,No,4,Website,0,Global Investors
+C1109,Individual,F,58.8,50-60,Usa,California,Home,Yes,1,Client,1,First-Time / Loan Buyers
+C1110,Individual,M,49.1,40-50,Usa,New York,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1111,Company,M,59.4,50-60,Usa,California,Home,Yes,4,Website,3,Luxury / High-Satisfaction
+C1112,Individual,M,44.5,40-50,Usa,Nevada,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C1113,Individual,F,51.8,50-60,Usa,Texas,Investment,No,2,Client,2,Corporate Buyers
+C1114,Individual,F,34.4,30-40,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1115,Individual,M,52.7,50-60,Usa,Colorado,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1116,Individual,F,34.5,30-40,Usa,California,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1117,Individual,F,71.3,70+,Mexico,Mexico City,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1118,Company,M,57.1,50-60,Uk,Scotland,Investment,Yes,2,Website,3,Luxury / High-Satisfaction
+C1119,Individual,M,85.3,70+,Usa,Oregon,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1120,Individual,F,46.9,40-50,Usa,Arizona,Home,No,1,Website,2,Corporate Buyers
+C1121,Individual,F,41.0,40-50,Usa,California,Home,No,1,Client,2,Corporate Buyers
+C1122,Individual,F,83.7,70+,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C1123,Individual,M,75.3,70+,Usa,Virginia,Home,No,5,Agency,2,Corporate Buyers
+C1124,Individual,F,50.4,50-60,Usa,Oregon,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1125,Individual,M,85.4,70+,Usa,Oregon,Home,No,3,Agency,2,Corporate Buyers
+C1126,Company,M,43.3,40-50,Usa,Virginia,Home,Yes,1,Website,3,Luxury / High-Satisfaction
+C1127,Individual,F,83.0,70+,Uk,England,Investment,No,1,Website,2,Corporate Buyers
+C1128,Individual,M,42.5,40-50,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1129,Individual,F,80.8,70+,Usa,Colorado,Investment,No,5,Agency,2,Corporate Buyers
+C1130,Individual,F,39.3,30-40,Usa,Arizona,Home,No,5,Website,2,Corporate Buyers
+C1131,Individual,F,42.1,40-50,Usa,California,Investment,No,3,Website,2,Corporate Buyers
+C1132,Individual,M,44.4,40-50,Usa,New York,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1133,Individual,M,33.4,30-40,Usa,Oregon,Investment,No,3,Website,2,Corporate Buyers
+C1134,Individual,F,82.7,70+,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1135,Individual,F,26.7,<30,Russia,Moscow Oblast,Investment,Yes,5,Client,1,First-Time / Loan Buyers
+C1136,Individual,F,61.1,60-70,Usa,California,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1137,Individual,F,39.5,30-40,Usa,Nevada,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1138,Individual,M,61.8,60-70,Usa,Oregon,Home,No,1,Website,2,Corporate Buyers
+C1139,Individual,F,30.3,30-40,Usa,California,Home,Yes,4,Client,1,First-Time / Loan Buyers
+C1140,Individual,M,50.0,40-50,Usa,Florida,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1141,Individual,F,26.4,<30,Usa,Arizona,Investment,No,3,Website,2,Corporate Buyers
+C1142,Individual,F,78.3,70+,Usa,Colorado,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C1143,Individual,M,31.8,30-40,Usa,Arizona,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1144,Individual,F,47.6,40-50,Usa,Georgia,Investment,No,4,Client,2,Corporate Buyers
+C1145,Individual,M,33.2,30-40,Usa,Nevada,Home,No,5,Website,2,Corporate Buyers
+C1146,Individual,M,35.3,30-40,Usa,California,Investment,No,2,Website,2,Corporate Buyers
+C1147,Individual,F,48.4,40-50,Usa,Utah,Home,No,3,Website,2,Corporate Buyers
+C1148,Individual,M,34.9,30-40,Australia,New South Wales,Home,Yes,1,Agency,0,Global Investors
+C1149,Individual,F,46.3,40-50,Russia,Tatarstan,Home,No,3,Agency,2,Corporate Buyers
+C1150,Individual,F,33.6,30-40,Usa,Nevada,Investment,No,4,Agency,2,Corporate Buyers
+C1151,Individual,M,62.5,60-70,Usa,Arizona,Investment,No,2,Website,2,Corporate Buyers
+C1152,Individual,M,48.8,40-50,Usa,Georgia,Home,No,1,Website,2,Corporate Buyers
+C1153,Individual,M,34.8,30-40,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C1154,Individual,M,69.9,60-70,Usa,Utah,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C1155,Individual,M,49.3,40-50,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C1156,Individual,F,70.1,70+,Usa,Virginia,Home,No,4,Agency,2,Corporate Buyers
+C1157,Individual,M,81.6,70+,Canada,Alberta,Investment,No,2,Website,0,Global Investors
+C1158,Individual,F,71.1,70+,Usa,California,Investment,No,2,Website,2,Corporate Buyers
+C1159,Individual,M,86.2,70+,Usa,Nevada,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1160,Individual,M,45.6,40-50,Usa,Florida,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1161,Individual,M,32.3,30-40,Canada,Alberta,Investment,Yes,3,Website,0,Global Investors
+C1162,Individual,M,64.4,60-70,Usa,California,Investment,No,2,Website,2,Corporate Buyers
+C1163,Individual,M,27.6,<30,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1164,Individual,F,58.2,50-60,Belgium,Wallonia,Home,Yes,3,Agency,0,Global Investors
+C1165,Individual,F,31.7,30-40,Russia,Moscow Oblast,Home,No,1,Website,2,Corporate Buyers
+C1166,Individual,M,34.6,30-40,Usa,New York,Investment,No,1,Website,2,Corporate Buyers
+C1167,Individual,M,58.5,50-60,Uk,Scotland,Home,No,3,Website,2,Corporate Buyers
+C1168,Individual,F,27.5,<30,Germany,Hamburg,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C1169,Individual,M,32.5,30-40,Russia,Saint Petersburg,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C1170,Individual,F,36.4,30-40,Usa,Nevada,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1171,Individual,F,41.8,40-50,Usa,California,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1172,Individual,F,83.6,70+,Usa,Nevada,Home,No,5,Website,2,Corporate Buyers
+C1173,Individual,F,41.6,40-50,Canada,Manitoba,Investment,No,1,Website,0,Global Investors
+C1174,Individual,M,44.0,40-50,Usa,Nevada,Home,No,2,Agency,2,Corporate Buyers
+C1175,Individual,F,66.7,60-70,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C1176,Individual,F,51.0,50-60,Usa,California,Investment,Yes,4,Agency,1,First-Time / Loan Buyers
+C1177,Individual,M,27.8,<30,Usa,California,Investment,No,2,Agency,2,Corporate Buyers
+C1178,Individual,F,75.9,70+,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1179,Individual,F,35.4,30-40,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C1180,Individual,F,30.9,30-40,Belgium,Brussels,Home,Yes,2,Website,0,Global Investors
+C1181,Individual,F,70.2,70+,Usa,Nevada,Investment,No,5,Website,2,Corporate Buyers
+C1182,Individual,M,65.3,60-70,Germany,Bavaria,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C1183,Individual,M,32.6,30-40,Usa,Arizona,Investment,No,1,Website,2,Corporate Buyers
+C1184,Individual,M,73.2,70+,France,Ile-De-France,Home,No,2,Website,0,Global Investors
+C1185,Individual,M,26.0,<30,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1186,Individual,F,48.0,40-50,Usa,Nevada,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1187,Individual,F,64.3,60-70,Usa,Nevada,Home,No,4,Website,2,Corporate Buyers
+C1188,Individual,M,30.6,30-40,Canada,Alberta,Home,No,1,Client,0,Global Investors
+C1189,Individual,M,63.4,60-70,Usa,Florida,Home,Yes,2,Client,1,First-Time / Loan Buyers
+C1190,Individual,F,79.9,70+,Usa,Texas,Home,No,4,Client,2,Corporate Buyers
+C1191,Individual,F,76.2,70+,Usa,California,Investment,No,3,Website,2,Corporate Buyers
+C1192,Individual,M,26.5,<30,Usa,Florida,Home,No,5,Website,2,Corporate Buyers
+C1193,Individual,F,51.2,50-60,Uk,England,Home,No,1,Website,2,Corporate Buyers
+C1194,Individual,F,83.0,70+,Usa,Colorado,Home,No,1,Website,2,Corporate Buyers
+C1195,Individual,F,36.0,30-40,Usa,California,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1196,Individual,M,70.8,70+,Usa,Nevada,Home,No,2,Agency,2,Corporate Buyers
+C1197,Individual,F,67.2,60-70,Usa,Arizona,Home,No,4,Website,2,Corporate Buyers
+C1198,Individual,F,66.4,60-70,Usa,New York,Home,No,1,Agency,2,Corporate Buyers
+C1199,Individual,M,83.3,70+,Usa,Colorado,Home,No,2,Website,2,Corporate Buyers
+C1200,Individual,M,56.6,50-60,Usa,Utah,Home,No,4,Agency,2,Corporate Buyers
+C1201,Individual,M,26.2,<30,Usa,Oregon,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1202,Company,M,41.1,40-50,Canada,Quebec,Investment,Yes,5,Website,3,Luxury / High-Satisfaction
+C1203,Individual,F,64.4,60-70,Usa,Arizona,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1204,Individual,M,34.2,30-40,Mexico,Puebla,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C1205,Individual,M,67.1,60-70,Belgium,Flanders,Home,No,4,Website,0,Global Investors
+C1206,Individual,F,68.5,60-70,Usa,California,Investment,No,5,Website,2,Corporate Buyers
+C1207,Individual,F,52.7,50-60,Usa,Texas,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C1208,Individual,M,48.6,40-50,Usa,Colorado,Home,No,1,Website,2,Corporate Buyers
+C1209,Individual,F,48.0,40-50,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1210,Individual,M,35.0,30-40,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1211,Individual,F,29.9,<30,Canada,British Columbia,Home,Yes,5,Website,0,Global Investors
+C1212,Individual,M,68.9,60-70,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1213,Individual,F,32.9,30-40,Canada,Manitoba,Home,No,5,Website,0,Global Investors
+C1214,Individual,F,25.9,<30,Usa,Florida,Home,No,1,Agency,2,Corporate Buyers
+C1215,Individual,M,31.9,30-40,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1216,Individual,F,28.9,<30,France,Normandy,Home,No,4,Website,0,Global Investors
+C1217,Individual,M,29.5,<30,Usa,California,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1218,Individual,F,84.5,70+,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1219,Individual,F,42.5,40-50,Usa,Arizona,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1220,Individual,F,58.8,50-60,Usa,Colorado,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1221,Individual,F,42.1,40-50,Usa,Nevada,Investment,No,2,Agency,2,Corporate Buyers
+C1222,Individual,M,57.4,50-60,Usa,Utah,Home,No,4,Website,2,Corporate Buyers
+C1223,Individual,F,73.8,70+,Usa,Washington,Home,No,4,Website,2,Corporate Buyers
+C1224,Individual,M,84.0,70+,Usa,New York,Investment,Yes,5,Client,1,First-Time / Loan Buyers
+C1225,Individual,M,35.6,30-40,Usa,Oregon,Home,No,2,Website,2,Corporate Buyers
+C1226,Individual,M,37.1,30-40,Usa,Utah,Home,No,4,Website,2,Corporate Buyers
+C1227,Individual,M,39.3,30-40,Usa,Colorado,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1228,Individual,M,72.0,70+,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C1229,Individual,F,31.6,30-40,Uk,Scotland,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1230,Individual,M,41.3,40-50,Usa,California,Home,No,5,Client,2,Corporate Buyers
+C1231,Individual,F,71.5,70+,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C1232,Individual,F,36.7,30-40,Canada,British Columbia,Home,No,3,Website,0,Global Investors
+C1233,Individual,M,46.9,40-50,Usa,Utah,Home,No,4,Website,2,Corporate Buyers
+C1234,Individual,F,69.4,60-70,Usa,Colorado,Investment,No,1,Website,2,Corporate Buyers
+C1235,Individual,M,69.1,60-70,Usa,Arizona,Home,No,2,Website,2,Corporate Buyers
+C1236,Individual,M,53.8,50-60,Usa,Arizona,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1237,Individual,F,82.7,70+,Uk,Wales,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1238,Individual,M,80.2,70+,Usa,Nevada,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1239,Individual,F,73.4,70+,Usa,Oregon,Home,No,3,Agency,2,Corporate Buyers
+C1240,Individual,F,41.6,40-50,Usa,Nevada,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1241,Individual,F,52.8,50-60,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1242,Individual,M,64.7,60-70,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1243,Individual,M,77.7,70+,Usa,Colorado,Home,No,1,Website,2,Corporate Buyers
+C1244,Individual,M,34.0,30-40,Usa,Utah,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1245,Individual,M,63.4,60-70,Usa,California,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1246,Individual,F,83.1,70+,Canada,Alberta,Home,No,2,Agency,0,Global Investors
+C1247,Individual,F,69.2,60-70,Usa,Nevada,Investment,No,2,Website,2,Corporate Buyers
+C1248,Individual,F,50.0,40-50,Usa,Arizona,Home,No,3,Agency,2,Corporate Buyers
+C1249,Individual,F,54.9,50-60,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1250,Individual,M,76.2,70+,Usa,Nevada,Home,No,5,Agency,2,Corporate Buyers
+C1251,Individual,M,50.6,50-60,Usa,Texas,Investment,No,5,Website,2,Corporate Buyers
+C1252,Individual,F,64.3,60-70,Usa,Arizona,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1253,Individual,M,34.7,30-40,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C1254,Individual,M,70.2,70+,Usa,California,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C1255,Individual,M,26.8,<30,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C1256,Company,F,54.3,50-60,Usa,California,Investment,No,4,Agency,3,Luxury / High-Satisfaction
+C1257,Individual,M,34.5,30-40,Usa,California,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C1258,Individual,F,57.0,50-60,Usa,Nevada,Home,No,1,Website,2,Corporate Buyers
+C1259,Individual,M,55.3,50-60,Usa,California,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C1260,Individual,F,33.8,30-40,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C1261,Individual,M,49.8,40-50,Usa,Utah,Home,No,3,Client,2,Corporate Buyers
+C1262,Individual,F,75.6,70+,Usa,California,Investment,No,4,Agency,2,Corporate Buyers
+C1263,Individual,M,74.6,70+,Usa,California,Investment,No,3,Agency,2,Corporate Buyers
+C1264,Individual,F,26.5,<30,Usa,California,Investment,No,1,Agency,2,Corporate Buyers
+C1265,Individual,M,83.2,70+,Usa,Washington,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1266,Individual,M,74.0,70+,Uk,England,Home,No,2,Website,2,Corporate Buyers
+C1267,Individual,F,61.2,60-70,Usa,Colorado,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1268,Individual,F,30.7,30-40,Uk,Northern Ireland,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1269,Individual,M,61.7,60-70,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C1270,Individual,F,47.7,40-50,Usa,Texas,Home,No,4,Agency,2,Corporate Buyers
+C1271,Individual,M,33.8,30-40,Usa,California,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C1272,Individual,M,85.1,70+,France,Occitanie,Home,Yes,1,Website,0,Global Investors
+C1273,Individual,M,58.1,50-60,Canada,Alberta,Home,No,5,Website,0,Global Investors
+C1274,Individual,F,46.9,40-50,Usa,California,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1275,Individual,F,57.3,50-60,Usa,Georgia,Investment,No,1,Website,2,Corporate Buyers
+C1276,Individual,M,86.3,70+,Australia,Victoria,Home,Yes,1,Agency,0,Global Investors
+C1277,Individual,F,45.2,40-50,Usa,California,Investment,No,2,Agency,2,Corporate Buyers
+C1278,Individual,M,28.9,<30,Usa,Utah,Home,No,4,Website,2,Corporate Buyers
+C1279,Individual,M,82.7,70+,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1280,Individual,M,72.7,70+,Usa,Texas,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1281,Individual,F,28.0,<30,Canada,Manitoba,Investment,Yes,2,Website,0,Global Investors
+C1282,Individual,F,30.1,30-40,Usa,Colorado,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C1283,Individual,F,80.6,70+,Usa,New York,Home,No,3,Agency,2,Corporate Buyers
+C1284,Individual,M,70.7,70+,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C1285,Individual,M,72.3,70+,Usa,Utah,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1286,Individual,M,62.9,60-70,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C1287,Individual,F,28.2,<30,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C1288,Individual,M,85.4,70+,Belgium,Wallonia,Home,No,3,Agency,0,Global Investors
+C1289,Individual,M,52.9,50-60,Mexico,Jalisco,Investment,Yes,1,Agency,1,First-Time / Loan Buyers
+C1290,Individual,F,52.7,50-60,Usa,Washington,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1291,Individual,M,42.6,40-50,Usa,California,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1292,Individual,M,49.1,40-50,Usa,Texas,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1293,Individual,F,53.9,50-60,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1294,Individual,M,63.4,60-70,Canada,Ontario,Investment,Yes,3,Agency,0,Global Investors
+C1295,Individual,F,34.2,30-40,Usa,California,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1296,Individual,M,63.0,60-70,Usa,Virginia,Home,No,1,Website,2,Corporate Buyers
+C1297,Company,M,42.8,40-50,Germany,Berlin,Home,No,5,Website,3,Luxury / High-Satisfaction
+C1298,Individual,F,57.9,50-60,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C1299,Individual,F,82.1,70+,Usa,California,Investment,No,3,Website,2,Corporate Buyers
+C1300,Individual,F,65.4,60-70,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C1301,Individual,M,70.5,70+,Usa,Virginia,Home,No,2,Agency,2,Corporate Buyers
+C1302,Individual,M,30.2,30-40,Usa,Arizona,Investment,No,5,Website,2,Corporate Buyers
+C1303,Individual,M,63.8,60-70,Usa,Arizona,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1304,Individual,F,41.0,40-50,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1305,Individual,F,47.8,40-50,Usa,Georgia,Home,No,4,Website,2,Corporate Buyers
+C1306,Individual,F,78.3,70+,Usa,Washington,Home,No,5,Website,2,Corporate Buyers
+C1307,Individual,F,33.3,30-40,Usa,Colorado,Home,No,5,Agency,2,Corporate Buyers
+C1308,Individual,M,26.3,<30,Usa,California,Investment,No,5,Agency,2,Corporate Buyers
+C1309,Individual,M,26.5,<30,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C1310,Individual,F,71.1,70+,Usa,New York,Home,No,5,Agency,2,Corporate Buyers
+C1311,Individual,M,85.8,70+,Uk,England,Home,Yes,4,Client,1,First-Time / Loan Buyers
+C1312,Individual,M,83.8,70+,Usa,New York,Home,No,5,Website,2,Corporate Buyers
+C1313,Individual,F,54.3,50-60,Australia,Western Australia,Investment,No,3,Website,0,Global Investors
+C1314,Individual,F,61.8,60-70,Usa,Arizona,Home,No,3,Website,2,Corporate Buyers
+C1315,Individual,M,77.5,70+,Usa,Colorado,Home,No,3,Agency,2,Corporate Buyers
+C1316,Individual,F,33.1,30-40,Usa,Colorado,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1317,Company,M,52.6,50-60,Usa,Utah,Home,Yes,2,Website,3,Luxury / High-Satisfaction
+C1318,Individual,M,83.4,70+,Usa,Texas,Home,No,1,Website,2,Corporate Buyers
+C1319,Individual,F,71.8,70+,Usa,Florida,Home,Yes,3,Client,1,First-Time / Loan Buyers
+C1320,Individual,M,57.1,50-60,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1321,Individual,M,35.8,30-40,Usa,Colorado,Investment,No,5,Client,2,Corporate Buyers
+C1322,Individual,F,31.5,30-40,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C1323,Individual,M,62.9,60-70,Usa,Utah,Home,No,3,Website,2,Corporate Buyers
+C1324,Individual,M,34.2,30-40,Usa,Arizona,Investment,Yes,2,Agency,1,First-Time / Loan Buyers
+C1325,Individual,M,51.5,50-60,Canada,Alberta,Home,Yes,5,Agency,0,Global Investors
+C1326,Individual,M,82.1,70+,Usa,Colorado,Investment,No,4,Website,2,Corporate Buyers
+C1327,Individual,F,33.1,30-40,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1328,Individual,F,69.9,60-70,Usa,Washington,Home,No,4,Website,2,Corporate Buyers
+C1329,Individual,M,58.1,50-60,Usa,California,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C1330,Individual,F,51.1,50-60,Usa,Colorado,Investment,No,2,Agency,2,Corporate Buyers
+C1331,Individual,F,39.7,30-40,Usa,California,Investment,No,1,Agency,2,Corporate Buyers
+C1332,Individual,M,30.5,30-40,Usa,Washington,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C1333,Individual,M,38.2,30-40,Usa,Nevada,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C1334,Individual,F,60.5,60-70,Usa,California,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C1335,Individual,F,44.1,40-50,Usa,Oregon,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C1336,Individual,F,77.5,70+,Usa,California,Home,No,5,Client,2,Corporate Buyers
+C1337,Individual,F,72.7,70+,Usa,California,Investment,No,5,Website,2,Corporate Buyers
+C1338,Individual,F,57.5,50-60,Usa,California,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1339,Company,M,65.3,60-70,Usa,Nevada,Home,Yes,4,Website,3,Luxury / High-Satisfaction
+C1340,Company,M,37.5,30-40,Usa,Colorado,Home,No,5,Website,3,Luxury / High-Satisfaction
+C1341,Individual,F,73.7,70+,Usa,Colorado,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1342,Individual,F,62.3,60-70,Usa,California,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1343,Individual,F,31.3,30-40,Canada,Ontario,Home,No,5,Agency,0,Global Investors
+C1344,Individual,M,52.1,50-60,Usa,Florida,Home,No,1,Agency,2,Corporate Buyers
+C1345,Individual,F,70.1,70+,Usa,Texas,Home,No,5,Website,2,Corporate Buyers
+C1346,Company,F,39.3,30-40,Usa,Colorado,Investment,No,4,Agency,3,Luxury / High-Satisfaction
+C1347,Individual,M,70.3,70+,Usa,Washington,Home,No,2,Client,2,Corporate Buyers
+C1348,Individual,M,27.9,<30,Usa,Oregon,Home,Yes,4,Client,1,First-Time / Loan Buyers
+C1349,Individual,F,44.3,40-50,Usa,Virginia,Investment,No,3,Website,2,Corporate Buyers
+C1350,Individual,F,35.1,30-40,Germany,Hamburg,Home,No,5,Website,0,Global Investors
+C1351,Individual,F,39.0,30-40,Australia,South Australia,Home,No,2,Client,0,Global Investors
+C1352,Individual,M,37.3,30-40,Usa,California,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C1353,Individual,F,28.7,<30,Canada,Alberta,Home,No,1,Agency,0,Global Investors
+C1354,Individual,M,85.2,70+,Usa,Florida,Home,No,5,Website,2,Corporate Buyers
+C1355,Individual,F,59.6,50-60,Usa,California,Investment,Yes,2,Client,1,First-Time / Loan Buyers
+C1356,Individual,M,32.2,30-40,Usa,Oregon,Investment,No,4,Agency,2,Corporate Buyers
+C1357,Individual,F,39.3,30-40,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1358,Individual,M,83.5,70+,Usa,Texas,Home,No,4,Agency,2,Corporate Buyers
+C1359,Individual,M,50.9,50-60,Usa,Virginia,Home,No,3,Agency,2,Corporate Buyers
+C1360,Individual,M,35.6,30-40,Usa,Virginia,Home,No,4,Agency,2,Corporate Buyers
+C1361,Individual,F,82.9,70+,Usa,California,Home,No,3,Client,2,Corporate Buyers
+C1362,Individual,F,61.2,60-70,Usa,California,Investment,Yes,1,Agency,1,First-Time / Loan Buyers
+C1363,Individual,M,45.0,40-50,Usa,Georgia,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C1364,Individual,F,27.5,<30,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1365,Individual,F,57.3,50-60,Belgium,Brussels,Investment,Yes,5,Website,0,Global Investors
+C1366,Individual,M,30.9,30-40,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C1367,Individual,F,73.4,70+,Germany,Berlin,Home,No,2,Client,0,Global Investors
+C1368,Individual,M,78.6,70+,Usa,California,Home,Yes,5,Client,1,First-Time / Loan Buyers
+C1369,Individual,M,42.7,40-50,France,Brittany,Home,Yes,4,Agency,0,Global Investors
+C1370,Individual,M,61.0,60-70,Usa,Colorado,Investment,No,1,Agency,2,Corporate Buyers
+C1371,Individual,M,37.0,30-40,Uk,England,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1372,Individual,F,44.6,40-50,Usa,Washington,Investment,No,2,Website,2,Corporate Buyers
+C1373,Individual,F,33.7,30-40,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1374,Company,M,36.4,30-40,France,Ile-De-France,Home,Yes,3,Agency,3,Luxury / High-Satisfaction
+C1375,Individual,F,53.6,50-60,Usa,California,Investment,Yes,4,Agency,1,First-Time / Loan Buyers
+C1376,Individual,F,39.0,30-40,Usa,Arizona,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C1377,Individual,F,42.5,40-50,Usa,Utah,Investment,No,2,Website,2,Corporate Buyers
+C1378,Individual,F,49.6,40-50,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1379,Individual,M,56.0,50-60,Uk,Scotland,Home,No,2,Website,2,Corporate Buyers
+C1380,Individual,M,76.7,70+,Canada,Alberta,Investment,No,4,Website,0,Global Investors
+C1381,Individual,M,64.0,60-70,Germany,Hesse,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1382,Individual,M,75.1,70+,Usa,Oregon,Home,No,2,Website,2,Corporate Buyers
+C1383,Individual,M,33.6,30-40,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C1384,Individual,F,38.3,30-40,Usa,California,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C1385,Individual,M,80.0,70+,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1386,Individual,M,78.8,70+,Usa,Washington,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1387,Individual,M,83.1,70+,Germany,Hamburg,Investment,No,4,Website,0,Global Investors
+C1388,Individual,F,27.2,<30,Usa,Washington,Home,No,3,Website,2,Corporate Buyers
+C1389,Individual,M,74.0,70+,Uk,Scotland,Home,No,2,Website,2,Corporate Buyers
+C1390,Individual,F,46.9,40-50,Usa,Nevada,Home,No,3,Website,2,Corporate Buyers
+C1391,Individual,F,52.3,50-60,Usa,Utah,Home,No,1,Website,2,Corporate Buyers
+C1392,Individual,M,36.0,30-40,Usa,Colorado,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1393,Individual,F,44.9,40-50,Mexico,Baja California,Investment,No,1,Agency,2,Corporate Buyers
+C1394,Individual,F,49.3,40-50,Usa,Nevada,Home,No,4,Website,2,Corporate Buyers
+C1395,Individual,F,37.7,30-40,Canada,Alberta,Investment,No,4,Website,0,Global Investors
+C1396,Individual,M,55.0,50-60,Canada,Manitoba,Investment,Yes,3,Website,0,Global Investors
+C1397,Individual,F,43.3,40-50,Usa,Nevada,Home,No,4,Website,2,Corporate Buyers
+C1398,Individual,M,59.5,50-60,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1399,Individual,F,47.8,40-50,Canada,British Columbia,Home,No,5,Agency,0,Global Investors
+C1400,Individual,F,34.7,30-40,Uk,Northern Ireland,Home,No,4,Client,2,Corporate Buyers
+C1401,Individual,F,27.2,<30,Usa,Virginia,Investment,No,1,Website,2,Corporate Buyers
+C1402,Individual,F,57.7,50-60,Usa,Utah,Home,No,3,Agency,2,Corporate Buyers
+C1403,Individual,F,42.7,40-50,Usa,Oregon,Home,No,2,Website,2,Corporate Buyers
+C1404,Individual,F,75.9,70+,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C1405,Individual,M,71.0,70+,Usa,Oregon,Home,No,5,Agency,2,Corporate Buyers
+C1406,Individual,F,55.8,50-60,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1407,Individual,F,70.2,70+,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1408,Company,F,62.6,60-70,Usa,California,Home,No,2,Agency,3,Luxury / High-Satisfaction
+C1409,Individual,F,68.9,60-70,Usa,Oregon,Investment,No,2,Website,2,Corporate Buyers
+C1410,Individual,F,60.5,60-70,Usa,Nevada,Home,No,2,Agency,2,Corporate Buyers
+C1411,Individual,M,39.2,30-40,Usa,California,Home,No,2,Client,2,Corporate Buyers
+C1412,Company,F,41.0,40-50,Usa,Nevada,Home,No,2,Agency,3,Luxury / High-Satisfaction
+C1413,Individual,F,57.7,50-60,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C1414,Individual,F,51.1,50-60,Usa,Florida,Home,No,4,Website,2,Corporate Buyers
+C1415,Individual,M,66.9,60-70,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1416,Individual,M,72.0,70+,Usa,Oregon,Home,No,2,Agency,2,Corporate Buyers
+C1417,Individual,M,72.6,70+,Uk,Scotland,Home,No,5,Website,2,Corporate Buyers
+C1418,Individual,M,72.2,70+,Usa,Ohio,Investment,No,2,Website,2,Corporate Buyers
+C1419,Individual,M,54.9,50-60,Germany,Hamburg,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1420,Company,M,44.7,40-50,Uk,Wales,Home,No,5,Website,3,Luxury / High-Satisfaction
+C1421,Individual,M,68.6,60-70,Usa,Colorado,Home,No,1,Website,2,Corporate Buyers
+C1422,Individual,M,71.4,70+,Usa,Florida,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1423,Individual,M,70.7,70+,Uk,Northern Ireland,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1424,Individual,F,72.3,70+,Usa,Utah,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C1425,Individual,M,54.5,50-60,Belgium,Flanders,Home,No,3,Website,0,Global Investors
+C1426,Individual,F,62.1,60-70,Usa,Washington,Home,No,2,Website,2,Corporate Buyers
+C1427,Individual,F,71.1,70+,Australia,Victoria,Home,No,5,Website,0,Global Investors
+C1428,Individual,F,72.5,70+,Usa,Oregon,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1429,Individual,M,34.7,30-40,Usa,Nevada,Investment,No,5,Agency,2,Corporate Buyers
+C1430,Individual,M,62.8,60-70,Usa,Nevada,Home,No,4,Website,2,Corporate Buyers
+C1431,Individual,F,83.0,70+,Germany,Hesse,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1432,Individual,M,74.5,70+,Usa,Utah,Home,No,3,Agency,2,Corporate Buyers
+C1433,Individual,M,73.2,70+,Germany,Hamburg,Home,No,4,Website,0,Global Investors
+C1434,Company,F,41.0,40-50,Usa,California,Investment,No,5,Agency,3,Luxury / High-Satisfaction
+C1435,Individual,M,59.2,50-60,Usa,Texas,Investment,No,2,Agency,2,Corporate Buyers
+C1436,Individual,M,27.7,<30,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C1437,Individual,M,29.2,<30,Usa,Arizona,Investment,No,5,Agency,2,Corporate Buyers
+C1438,Individual,M,37.9,30-40,Usa,California,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C1439,Individual,F,25.7,<30,Usa,Virginia,Home,No,2,Agency,2,Corporate Buyers
+C1440,Individual,F,73.9,70+,Usa,Colorado,Investment,No,2,Agency,2,Corporate Buyers
+C1441,Individual,F,80.8,70+,Usa,California,Investment,No,5,Website,2,Corporate Buyers
+C1442,Individual,M,26.0,<30,Usa,Colorado,Home,Yes,2,Client,1,First-Time / Loan Buyers
+C1443,Individual,F,46.6,40-50,Usa,Florida,Home,No,2,Website,2,Corporate Buyers
+C1444,Individual,M,45.0,40-50,Usa,Colorado,Home,No,3,Website,2,Corporate Buyers
+C1445,Individual,M,37.9,30-40,Usa,Florida,Home,No,5,Website,2,Corporate Buyers
+C1446,Individual,F,74.5,70+,Usa,Ohio,Home,No,4,Website,2,Corporate Buyers
+C1447,Individual,F,54.1,50-60,Usa,Nevada,Investment,Yes,4,Client,1,First-Time / Loan Buyers
+C1448,Individual,M,67.3,60-70,Russia,Tatarstan,Home,No,1,Website,2,Corporate Buyers
+C1449,Individual,F,27.0,<30,Usa,California,Investment,No,5,Website,2,Corporate Buyers
+C1450,Individual,F,30.2,30-40,Usa,Virginia,Home,No,5,Website,2,Corporate Buyers
+C1451,Individual,F,42.7,40-50,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C1452,Individual,F,32.9,30-40,Belgium,Wallonia,Home,No,3,Client,0,Global Investors
+C1453,Individual,M,44.7,40-50,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C1454,Individual,F,78.1,70+,Usa,California,Investment,No,1,Client,2,Corporate Buyers
+C1455,Individual,F,37.0,30-40,Usa,Colorado,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1456,Company,F,34.0,30-40,Usa,Oregon,Investment,Yes,1,Website,3,Luxury / High-Satisfaction
+C1457,Individual,F,77.4,70+,Usa,California,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1458,Individual,M,75.8,70+,Usa,Arizona,Home,No,1,Website,2,Corporate Buyers
+C1459,Individual,M,76.7,70+,Usa,Arizona,Home,No,5,Website,2,Corporate Buyers
+C1460,Individual,F,53.5,50-60,Uk,England,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1461,Individual,F,82.4,70+,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C1462,Individual,F,42.2,40-50,Germany,Hamburg,Investment,No,3,Agency,0,Global Investors
+C1463,Individual,M,82.5,70+,Usa,California,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1464,Individual,M,86.4,70+,Usa,Arizona,Home,No,1,Website,2,Corporate Buyers
+C1465,Individual,M,35.9,30-40,Usa,Ohio,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1466,Individual,F,26.8,<30,Belgium,Flanders,Investment,No,2,Website,0,Global Investors
+C1467,Individual,F,74.9,70+,Usa,California,Home,No,5,Client,2,Corporate Buyers
+C1468,Individual,M,85.8,70+,Canada,Manitoba,Home,No,3,Website,0,Global Investors
+C1469,Individual,M,56.1,50-60,Usa,Colorado,Home,No,1,Website,2,Corporate Buyers
+C1470,Individual,M,86.1,70+,Usa,Colorado,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C1471,Individual,F,86.1,70+,Uk,Northern Ireland,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1472,Individual,M,35.2,30-40,Usa,Washington,Home,No,1,Website,2,Corporate Buyers
+C1473,Individual,F,52.3,50-60,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C1474,Individual,M,57.2,50-60,Usa,Oregon,Home,No,3,Website,2,Corporate Buyers
+C1475,Individual,M,81.9,70+,Mexico,Jalisco,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1476,Individual,M,26.0,<30,Usa,Nevada,Home,No,1,Agency,2,Corporate Buyers
+C1477,Company,F,58.2,50-60,Usa,California,Investment,No,1,Agency,3,Luxury / High-Satisfaction
+C1478,Individual,F,67.8,60-70,Canada,British Columbia,Investment,No,1,Agency,0,Global Investors
+C1479,Individual,M,58.2,50-60,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1480,Individual,F,41.2,40-50,Usa,Virginia,Investment,No,3,Client,2,Corporate Buyers
+C1481,Company,F,41.5,40-50,Usa,Arizona,Investment,No,3,Website,3,Luxury / High-Satisfaction
+C1482,Individual,F,73.4,70+,Usa,Oregon,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1483,Individual,M,51.0,50-60,Usa,Colorado,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1484,Individual,F,54.7,50-60,Usa,Colorado,Home,No,3,Client,2,Corporate Buyers
+C1485,Individual,F,42.0,40-50,Usa,Washington,Investment,No,4,Website,2,Corporate Buyers
+C1486,Individual,F,30.0,<30,Uk,Wales,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1487,Individual,F,60.5,60-70,Usa,New York,Home,No,3,Agency,2,Corporate Buyers
+C1488,Individual,M,50.8,50-60,Usa,Florida,Investment,No,2,Website,2,Corporate Buyers
+C1489,Individual,F,75.3,70+,Usa,Arizona,Home,No,5,Agency,2,Corporate Buyers
+C1490,Individual,M,31.6,30-40,Uk,Wales,Investment,Yes,5,Client,1,First-Time / Loan Buyers
+C1491,Individual,F,28.9,<30,Usa,Georgia,Home,No,4,Agency,2,Corporate Buyers
+C1492,Individual,F,41.5,40-50,Germany,Bavaria,Home,No,2,Agency,0,Global Investors
+C1493,Individual,M,34.3,30-40,Usa,Washington,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1494,Individual,M,30.2,30-40,Usa,New York,Home,No,1,Client,2,Corporate Buyers
+C1495,Individual,M,34.6,30-40,Denmark,Capital Region,Home,No,1,Website,0,Global Investors
+C1496,Individual,M,39.6,30-40,Usa,Florida,Home,No,5,Agency,2,Corporate Buyers
+C1497,Individual,M,86.4,70+,Usa,California,Investment,No,4,Agency,2,Corporate Buyers
+C1498,Individual,F,59.4,50-60,Mexico,Puebla,Investment,No,5,Website,2,Corporate Buyers
+C1499,Individual,F,28.6,<30,Russia,Saint Petersburg,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1500,Individual,F,31.5,30-40,Australia,Victoria,Home,No,2,Agency,0,Global Investors
+C1501,Individual,F,74.5,70+,Usa,Oregon,Investment,No,4,Agency,2,Corporate Buyers
+C1502,Individual,F,31.6,30-40,Uk,Wales,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1503,Company,M,39.8,30-40,Usa,Arizona,Investment,No,5,Website,3,Luxury / High-Satisfaction
+C1504,Individual,M,79.8,70+,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C1505,Individual,M,32.1,30-40,Usa,Virginia,Home,No,3,Agency,2,Corporate Buyers
+C1506,Individual,M,76.4,70+,Usa,Utah,Investment,No,3,Website,2,Corporate Buyers
+C1507,Individual,F,75.2,70+,Usa,Florida,Home,No,3,Agency,2,Corporate Buyers
+C1508,Individual,M,31.5,30-40,Uk,Scotland,Home,No,3,Agency,2,Corporate Buyers
+C1509,Individual,F,79.5,70+,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1510,Company,M,63.5,60-70,Usa,California,Home,No,5,Agency,3,Luxury / High-Satisfaction
+C1511,Individual,F,36.9,30-40,France,Provence,Home,Yes,2,Website,0,Global Investors
+C1512,Individual,F,71.0,70+,Usa,Nevada,Home,Yes,4,Client,1,First-Time / Loan Buyers
+C1513,Individual,F,31.0,30-40,Usa,Florida,Home,No,2,Website,2,Corporate Buyers
+C1514,Individual,F,39.5,30-40,Usa,New York,Home,No,4,Website,2,Corporate Buyers
+C1515,Individual,F,79.7,70+,Usa,Nevada,Investment,No,5,Website,2,Corporate Buyers
+C1516,Individual,F,73.1,70+,Usa,Texas,Home,No,4,Website,2,Corporate Buyers
+C1517,Individual,M,48.3,40-50,Usa,California,Investment,No,2,Agency,2,Corporate Buyers
+C1518,Individual,F,31.7,30-40,Australia,Victoria,Home,Yes,5,Agency,0,Global Investors
+C1519,Individual,M,53.8,50-60,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1520,Individual,M,80.5,70+,Usa,Utah,Home,No,1,Website,2,Corporate Buyers
+C1521,Individual,M,52.5,50-60,Usa,Nevada,Home,No,4,Agency,2,Corporate Buyers
+C1522,Individual,F,61.8,60-70,Usa,Washington,Home,No,5,Website,2,Corporate Buyers
+C1523,Company,M,44.9,40-50,Australia,Victoria,Investment,No,3,Website,3,Luxury / High-Satisfaction
+C1524,Individual,M,58.9,50-60,Usa,Virginia,Home,No,2,Client,2,Corporate Buyers
+C1525,Individual,M,66.8,60-70,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1526,Individual,F,69.9,60-70,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1527,Individual,F,37.1,30-40,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1528,Individual,F,28.8,<30,Germany,Hamburg,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1529,Company,M,37.2,30-40,Usa,California,Home,No,4,Website,3,Luxury / High-Satisfaction
+C1530,Individual,F,37.6,30-40,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C1531,Individual,M,62.3,60-70,France,Brittany,Investment,No,2,Website,0,Global Investors
+C1532,Individual,F,27.7,<30,Usa,Texas,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1533,Individual,M,37.7,30-40,Canada,British Columbia,Home,No,4,Agency,0,Global Investors
+C1534,Individual,F,30.0,<30,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1535,Individual,M,31.8,30-40,Uk,England,Investment,No,3,Agency,2,Corporate Buyers
+C1536,Individual,F,44.0,40-50,Usa,Washington,Home,No,3,Website,2,Corporate Buyers
+C1537,Individual,F,26.9,<30,Usa,Arizona,Home,No,5,Website,2,Corporate Buyers
+C1538,Individual,F,79.4,70+,Usa,California,Investment,No,5,Website,2,Corporate Buyers
+C1539,Individual,M,29.1,<30,Usa,Nevada,Home,No,1,Agency,2,Corporate Buyers
+C1540,Individual,M,68.5,60-70,Usa,California,Home,Yes,2,Client,1,First-Time / Loan Buyers
+C1541,Individual,M,61.6,60-70,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C1542,Individual,M,36.9,30-40,Usa,Nevada,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1543,Individual,F,70.6,70+,Usa,New York,Investment,No,3,Agency,2,Corporate Buyers
+C1544,Individual,F,79.1,70+,Russia,Tatarstan,Home,No,3,Website,2,Corporate Buyers
+C1545,Individual,F,33.6,30-40,Usa,California,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1546,Individual,F,60.0,50-60,Mexico,Puebla,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1547,Individual,F,51.2,50-60,Usa,Florida,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C1548,Company,M,58.5,50-60,Usa,California,Home,Yes,2,Website,3,Luxury / High-Satisfaction
+C1549,Individual,M,65.0,60-70,Mexico,Nuevo Leon,Home,No,4,Client,2,Corporate Buyers
+C1550,Individual,M,27.7,<30,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C1551,Individual,M,35.1,30-40,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C1552,Individual,M,79.2,70+,Usa,California,Investment,Yes,2,Agency,1,First-Time / Loan Buyers
+C1553,Company,M,36.2,30-40,Usa,Utah,Home,No,4,Agency,3,Luxury / High-Satisfaction
+C1554,Individual,M,28.3,<30,Germany,Bavaria,Home,No,1,Website,0,Global Investors
+C1555,Individual,F,80.2,70+,Uk,England,Home,No,5,Website,2,Corporate Buyers
+C1556,Individual,F,43.6,40-50,Usa,Colorado,Investment,No,2,Agency,2,Corporate Buyers
+C1557,Individual,F,84.3,70+,Usa,New York,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1558,Individual,M,82.3,70+,Mexico,Baja California,Home,No,4,Website,2,Corporate Buyers
+C1559,Individual,F,51.2,50-60,Uk,England,Home,No,2,Website,2,Corporate Buyers
+C1560,Individual,F,85.9,70+,Usa,California,Home,Yes,4,Client,1,First-Time / Loan Buyers
+C1561,Individual,M,62.1,60-70,Mexico,Nuevo Leon,Investment,No,5,Agency,2,Corporate Buyers
+C1562,Individual,F,39.0,30-40,Usa,California,Home,No,4,Client,2,Corporate Buyers
+C1563,Individual,F,39.0,30-40,Usa,Utah,Home,No,5,Website,2,Corporate Buyers
+C1564,Individual,M,61.6,60-70,Usa,Washington,Investment,No,5,Website,2,Corporate Buyers
+C1565,Individual,M,45.9,40-50,Mexico,Jalisco,Home,No,4,Agency,2,Corporate Buyers
+C1566,Individual,M,31.5,30-40,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1567,Individual,M,48.7,40-50,Usa,Georgia,Home,No,4,Client,2,Corporate Buyers
+C1568,Individual,F,36.3,30-40,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C1569,Individual,F,32.6,30-40,Usa,California,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1570,Individual,F,62.5,60-70,Usa,Ohio,Home,No,5,Website,2,Corporate Buyers
+C1571,Individual,M,48.0,40-50,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C1572,Individual,M,66.0,60-70,Australia,Queensland,Home,No,3,Agency,0,Global Investors
+C1573,Individual,F,80.1,70+,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C1574,Individual,M,41.8,40-50,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C1575,Individual,M,25.5,<30,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C1576,Individual,F,48.7,40-50,Usa,Nevada,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C1577,Individual,M,43.3,40-50,Germany,Bavaria,Home,No,3,Website,0,Global Investors
+C1578,Individual,M,30.3,30-40,Usa,California,Investment,No,2,Website,2,Corporate Buyers
+C1579,Individual,M,80.7,70+,Usa,Arizona,Investment,No,4,Website,2,Corporate Buyers
+C1580,Individual,M,28.5,<30,Usa,Georgia,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1581,Individual,M,75.6,70+,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1582,Individual,M,70.8,70+,France,Ile-De-France,Home,Yes,4,Client,0,Global Investors
+C1583,Individual,M,58.5,50-60,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C1584,Company,M,40.9,40-50,France,Brittany,Investment,Yes,1,Website,3,Luxury / High-Satisfaction
+C1585,Individual,M,65.7,60-70,Canada,Ontario,Home,No,5,Website,0,Global Investors
+C1586,Individual,F,59.4,50-60,Germany,Berlin,Home,No,3,Website,0,Global Investors
+C1587,Individual,M,82.5,70+,Canada,Quebec,Investment,Yes,4,Agency,0,Global Investors
+C1588,Individual,F,45.6,40-50,Usa,Utah,Investment,No,5,Website,2,Corporate Buyers
+C1589,Individual,F,72.9,70+,Usa,California,Investment,No,4,Agency,2,Corporate Buyers
+C1590,Company,F,47.0,40-50,Usa,Oregon,Home,No,1,Website,3,Luxury / High-Satisfaction
+C1591,Individual,F,54.8,50-60,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C1592,Individual,F,51.0,50-60,Usa,Texas,Investment,Yes,2,Agency,1,First-Time / Loan Buyers
+C1593,Individual,M,50.9,50-60,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C1594,Individual,F,56.7,50-60,Usa,Colorado,Home,No,2,Agency,2,Corporate Buyers
+C1595,Individual,M,70.8,70+,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C1596,Individual,M,46.6,40-50,Germany,Berlin,Investment,No,4,Website,0,Global Investors
+C1597,Individual,F,76.5,70+,Usa,Nevada,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1598,Individual,F,86.0,70+,Usa,Georgia,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1599,Individual,F,45.6,40-50,Usa,Virginia,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1600,Individual,F,58.3,50-60,Belgium,Wallonia,Home,No,5,Website,0,Global Investors
+C1601,Individual,F,29.8,<30,Russia,Krasnodar Krai,Home,No,3,Website,2,Corporate Buyers
+C1602,Individual,M,39.6,30-40,Usa,Nevada,Investment,No,4,Website,2,Corporate Buyers
+C1603,Individual,F,63.8,60-70,Uk,England,Home,No,5,Website,2,Corporate Buyers
+C1604,Individual,M,76.8,70+,Usa,Texas,Home,No,4,Website,2,Corporate Buyers
+C1605,Individual,M,27.4,<30,Uk,England,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1606,Individual,M,61.2,60-70,Usa,Washington,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1607,Individual,F,63.3,60-70,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C1608,Individual,F,26.6,<30,Uk,England,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1609,Individual,M,61.7,60-70,Usa,California,Investment,No,2,Website,2,Corporate Buyers
+C1610,Individual,M,59.2,50-60,Usa,California,Investment,No,3,Website,2,Corporate Buyers
+C1611,Individual,F,50.8,50-60,Usa,Nevada,Investment,No,4,Website,2,Corporate Buyers
+C1612,Individual,M,36.3,30-40,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1613,Individual,M,28.4,<30,Denmark,Southern Denmark,Home,Yes,2,Agency,0,Global Investors
+C1614,Individual,F,58.1,50-60,Usa,Utah,Investment,No,4,Website,2,Corporate Buyers
+C1615,Individual,M,62.9,60-70,Usa,Utah,Home,No,5,Agency,2,Corporate Buyers
+C1616,Individual,M,34.8,30-40,Uk,Wales,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1617,Individual,F,73.7,70+,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1618,Individual,F,63.6,60-70,Usa,Washington,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1619,Individual,M,73.7,70+,Belgium,Wallonia,Home,No,2,Website,0,Global Investors
+C1620,Individual,M,82.1,70+,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1621,Individual,M,72.0,70+,Usa,Oregon,Investment,No,2,Agency,2,Corporate Buyers
+C1622,Individual,F,65.4,60-70,Usa,Oregon,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1623,Individual,F,32.4,30-40,Usa,Oregon,Home,No,4,Website,2,Corporate Buyers
+C1624,Individual,F,75.5,70+,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1625,Individual,M,26.4,<30,Australia,Western Australia,Home,No,4,Agency,0,Global Investors
+C1626,Individual,F,56.3,50-60,France,Provence,Home,Yes,2,Website,0,Global Investors
+C1627,Individual,M,52.8,50-60,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1628,Company,F,32.7,30-40,France,Normandy,Home,Yes,4,Website,3,Luxury / High-Satisfaction
+C1629,Individual,F,69.8,60-70,Usa,Utah,Home,No,5,Agency,2,Corporate Buyers
+C1630,Company,F,32.1,30-40,Usa,Virginia,Investment,Yes,1,Website,3,Luxury / High-Satisfaction
+C1631,Individual,F,60.3,60-70,Uk,Northern Ireland,Home,No,5,Website,2,Corporate Buyers
+C1632,Individual,F,62.9,60-70,Usa,California,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C1633,Individual,F,49.0,40-50,Canada,Ontario,Home,No,2,Website,0,Global Investors
+C1634,Individual,F,82.4,70+,Usa,Georgia,Investment,No,2,Website,2,Corporate Buyers
+C1635,Individual,M,78.1,70+,France,Brittany,Home,No,1,Website,0,Global Investors
+C1636,Company,F,39.4,30-40,Usa,Arizona,Home,Yes,5,Website,3,Luxury / High-Satisfaction
+C1637,Individual,M,57.3,50-60,Mexico,Nuevo Leon,Home,No,5,Agency,2,Corporate Buyers
+C1638,Individual,F,47.5,40-50,France,Occitanie,Investment,Yes,1,Agency,0,Global Investors
+C1639,Individual,M,82.7,70+,Usa,Colorado,Home,No,1,Website,2,Corporate Buyers
+C1640,Individual,F,59.6,50-60,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1641,Individual,M,54.3,50-60,Usa,Utah,Home,No,1,Agency,2,Corporate Buyers
+C1642,Individual,F,44.9,40-50,Canada,British Columbia,Home,No,5,Website,0,Global Investors
+C1643,Individual,M,48.4,40-50,France,Ile-De-France,Home,No,4,Agency,0,Global Investors
+C1644,Individual,F,82.0,70+,Usa,California,Home,No,1,Client,2,Corporate Buyers
+C1645,Individual,F,31.4,30-40,Australia,New South Wales,Investment,No,1,Website,0,Global Investors
+C1646,Individual,M,28.0,<30,Usa,Washington,Investment,Yes,4,Agency,1,First-Time / Loan Buyers
+C1647,Individual,M,80.6,70+,Usa,Ohio,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1648,Individual,F,76.7,70+,Australia,New South Wales,Home,No,3,Website,0,Global Investors
+C1649,Individual,F,44.3,40-50,Usa,Oregon,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1650,Individual,M,57.2,50-60,Usa,Washington,Investment,No,2,Website,2,Corporate Buyers
+C1651,Individual,M,80.6,70+,Usa,California,Investment,No,4,Website,2,Corporate Buyers
+C1652,Individual,M,62.4,60-70,Usa,Nevada,Investment,Yes,4,Client,1,First-Time / Loan Buyers
+C1653,Individual,F,51.9,50-60,Usa,Colorado,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1654,Individual,F,58.2,50-60,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C1655,Individual,F,61.1,60-70,Usa,Texas,Investment,No,2,Website,2,Corporate Buyers
+C1656,Individual,M,35.1,30-40,Belgium,Wallonia,Investment,Yes,4,Website,0,Global Investors
+C1657,Individual,M,68.1,60-70,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C1658,Individual,M,55.9,50-60,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C1659,Individual,M,79.8,70+,Denmark,Zealand,Home,No,4,Website,0,Global Investors
+C1660,Individual,M,86.1,70+,Usa,Nevada,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1661,Individual,M,50.8,50-60,Usa,Washington,Home,No,4,Agency,2,Corporate Buyers
+C1662,Individual,M,59.1,50-60,Russia,Tatarstan,Home,No,4,Website,2,Corporate Buyers
+C1663,Individual,M,49.1,40-50,Usa,Colorado,Investment,No,3,Agency,2,Corporate Buyers
+C1664,Individual,F,56.9,50-60,France,Occitanie,Investment,No,5,Agency,0,Global Investors
+C1665,Individual,M,30.5,30-40,Usa,Arizona,Home,No,5,Website,2,Corporate Buyers
+C1666,Individual,F,63.8,60-70,Usa,Ohio,Home,No,2,Website,2,Corporate Buyers
+C1667,Individual,F,58.6,50-60,Usa,California,Investment,No,4,Agency,2,Corporate Buyers
+C1668,Individual,M,68.6,60-70,Australia,Victoria,Home,No,5,Website,0,Global Investors
+C1669,Individual,M,66.2,60-70,Canada,Alberta,Investment,Yes,3,Agency,0,Global Investors
+C1670,Individual,F,55.5,50-60,Usa,Colorado,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1671,Individual,F,77.8,70+,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C1672,Individual,F,52.2,50-60,Usa,Nevada,Investment,No,4,Website,2,Corporate Buyers
+C1673,Individual,F,34.3,30-40,Usa,Washington,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1674,Individual,F,84.5,70+,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1675,Individual,F,41.2,40-50,Canada,Alberta,Investment,No,5,Website,0,Global Investors
+C1676,Individual,F,26.7,<30,Usa,Washington,Home,No,2,Website,2,Corporate Buyers
+C1677,Individual,M,61.5,60-70,Usa,Texas,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1678,Individual,M,65.3,60-70,Usa,California,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1679,Individual,F,40.3,40-50,Usa,Nevada,Investment,No,4,Website,2,Corporate Buyers
+C1680,Individual,F,26.7,<30,Usa,California,Investment,No,4,Agency,2,Corporate Buyers
+C1681,Individual,M,64.9,60-70,Usa,Oregon,Home,Yes,3,Client,1,First-Time / Loan Buyers
+C1682,Individual,F,39.2,30-40,Usa,Nevada,Home,No,2,Website,2,Corporate Buyers
+C1683,Individual,F,26.6,<30,Usa,Oregon,Investment,No,1,Client,2,Corporate Buyers
+C1684,Individual,F,49.0,40-50,Usa,Colorado,Investment,No,4,Website,2,Corporate Buyers
+C1685,Individual,F,49.1,40-50,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C1686,Individual,M,49.4,40-50,Usa,California,Investment,Yes,2,Agency,1,First-Time / Loan Buyers
+C1687,Individual,M,59.1,50-60,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1688,Individual,F,30.1,30-40,Usa,Oregon,Home,No,5,Client,2,Corporate Buyers
+C1689,Individual,F,41.4,40-50,Usa,Oregon,Investment,Yes,1,Client,1,First-Time / Loan Buyers
+C1690,Individual,M,74.8,70+,Denmark,North Denmark,Home,Yes,2,Agency,0,Global Investors
+C1691,Individual,M,80.2,70+,Usa,Arizona,Home,No,5,Website,2,Corporate Buyers
+C1692,Individual,M,35.3,30-40,Canada,Ontario,Home,Yes,5,Agency,0,Global Investors
+C1693,Individual,M,35.6,30-40,Belgium,Flanders,Home,No,1,Website,0,Global Investors
+C1694,Individual,F,68.9,60-70,Usa,Virginia,Home,No,5,Agency,2,Corporate Buyers
+C1695,Individual,F,70.5,70+,Belgium,Flanders,Home,No,5,Website,0,Global Investors
+C1696,Individual,F,39.3,30-40,Usa,Florida,Home,No,1,Website,2,Corporate Buyers
+C1697,Individual,F,45.9,40-50,Belgium,Brussels,Home,No,2,Client,0,Global Investors
+C1698,Individual,M,75.5,70+,Uk,Northern Ireland,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1699,Individual,M,56.9,50-60,Australia,Western Australia,Home,Yes,3,Agency,0,Global Investors
+C1700,Individual,M,82.6,70+,Usa,Nevada,Home,No,3,Website,2,Corporate Buyers
+C1701,Individual,F,44.0,40-50,Usa,Arizona,Home,No,1,Website,2,Corporate Buyers
+C1702,Individual,M,36.5,30-40,Usa,Washington,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1703,Individual,M,26.9,<30,Usa,Texas,Investment,No,4,Agency,2,Corporate Buyers
+C1704,Individual,F,63.3,60-70,Denmark,Capital Region,Home,No,4,Agency,0,Global Investors
+C1705,Individual,M,46.6,40-50,Usa,Virginia,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C1706,Individual,M,50.1,50-60,Usa,California,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1707,Individual,M,52.7,50-60,Usa,Georgia,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1708,Individual,F,39.9,30-40,Germany,Hesse,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1709,Individual,F,79.9,70+,Usa,Arizona,Investment,No,3,Agency,2,Corporate Buyers
+C1710,Individual,M,69.1,60-70,Canada,Alberta,Investment,Yes,2,Website,0,Global Investors
+C1711,Individual,F,44.8,40-50,Usa,California,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C1712,Individual,M,55.3,50-60,France,Occitanie,Home,No,5,Website,0,Global Investors
+C1713,Individual,F,45.4,40-50,Usa,Oregon,Home,No,1,Website,2,Corporate Buyers
+C1714,Individual,M,78.0,70+,Usa,Colorado,Home,No,3,Website,2,Corporate Buyers
+C1715,Individual,F,63.2,60-70,Usa,Florida,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1716,Individual,F,45.7,40-50,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C1717,Individual,F,84.5,70+,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1718,Individual,F,31.4,30-40,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C1719,Company,M,66.1,60-70,Usa,Florida,Home,No,2,Agency,3,Luxury / High-Satisfaction
+C1720,Individual,F,29.7,<30,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1721,Individual,M,39.5,30-40,Usa,Nevada,Home,No,2,Agency,2,Corporate Buyers
+C1722,Individual,F,43.6,40-50,Usa,Nevada,Home,No,3,Website,2,Corporate Buyers
+C1723,Individual,F,28.4,<30,Canada,Quebec,Home,Yes,2,Agency,0,Global Investors
+C1724,Individual,M,70.0,60-70,Usa,Virginia,Home,No,4,Website,2,Corporate Buyers
+C1725,Individual,F,67.4,60-70,Usa,Nevada,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1726,Individual,F,77.8,70+,Uk,Northern Ireland,Home,No,3,Website,2,Corporate Buyers
+C1727,Individual,F,80.5,70+,Usa,New York,Home,No,3,Website,2,Corporate Buyers
+C1728,Individual,F,82.3,70+,Usa,Oregon,Home,Yes,3,Client,1,First-Time / Loan Buyers
+C1729,Individual,M,71.0,70+,Canada,British Columbia,Home,Yes,3,Website,0,Global Investors
+C1730,Individual,M,46.6,40-50,Mexico,Puebla,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C1731,Individual,M,54.5,50-60,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1732,Individual,F,55.9,50-60,Canada,Alberta,Investment,No,2,Agency,0,Global Investors
+C1733,Individual,F,78.2,70+,Usa,California,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1734,Individual,M,51.4,50-60,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C1735,Individual,F,56.7,50-60,Usa,Utah,Investment,No,3,Website,2,Corporate Buyers
+C1736,Individual,F,36.7,30-40,Usa,California,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1737,Individual,F,33.5,30-40,Usa,California,Investment,No,3,Website,2,Corporate Buyers
+C1738,Individual,F,49.3,40-50,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C1739,Individual,M,41.3,40-50,Russia,Novosibirsk,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C1740,Individual,F,74.8,70+,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1741,Individual,M,50.2,50-60,Usa,Virginia,Home,No,5,Website,2,Corporate Buyers
+C1742,Company,F,37.8,30-40,Usa,California,Home,No,5,Agency,3,Luxury / High-Satisfaction
+C1743,Individual,F,79.9,70+,Belgium,Flanders,Home,No,1,Client,0,Global Investors
+C1744,Individual,M,64.6,60-70,Russia,Krasnodar Krai,Investment,No,1,Website,2,Corporate Buyers
+C1745,Individual,F,50.0,40-50,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C1746,Individual,F,67.0,60-70,Belgium,Flanders,Home,No,3,Website,0,Global Investors
+C1747,Individual,M,61.3,60-70,Usa,Colorado,Home,No,5,Client,2,Corporate Buyers
+C1748,Individual,M,75.6,70+,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1749,Individual,M,70.1,70+,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1750,Company,M,35.4,30-40,Usa,Colorado,Home,No,3,Website,3,Luxury / High-Satisfaction
+C1751,Individual,F,71.3,70+,Usa,Ohio,Home,No,5,Website,2,Corporate Buyers
+C1752,Individual,M,46.4,40-50,Usa,California,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1753,Individual,M,80.5,70+,Usa,Georgia,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C1754,Individual,M,30.6,30-40,Usa,Virginia,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1755,Individual,M,27.8,<30,Usa,Nevada,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1756,Individual,M,36.2,30-40,Usa,Utah,Home,No,1,Website,2,Corporate Buyers
+C1757,Individual,M,41.0,40-50,Germany,Bavaria,Home,No,3,Client,0,Global Investors
+C1758,Individual,M,41.4,40-50,Usa,Oregon,Investment,Yes,4,Agency,1,First-Time / Loan Buyers
+C1759,Individual,M,51.7,50-60,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1760,Individual,F,50.7,50-60,Belgium,Brussels,Home,No,2,Website,0,Global Investors
+C1761,Individual,M,71.4,70+,Usa,Washington,Home,No,1,Website,2,Corporate Buyers
+C1762,Individual,M,62.4,60-70,Usa,Virginia,Home,No,1,Website,2,Corporate Buyers
+C1763,Individual,F,71.6,70+,Usa,New York,Home,No,3,Website,2,Corporate Buyers
+C1764,Individual,F,79.6,70+,Usa,Nevada,Home,No,2,Agency,2,Corporate Buyers
+C1765,Individual,F,29.1,<30,Usa,Colorado,Home,Yes,1,Client,1,First-Time / Loan Buyers
+C1766,Individual,F,33.1,30-40,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C1767,Individual,M,48.1,40-50,Usa,Colorado,Home,No,3,Website,2,Corporate Buyers
+C1768,Individual,F,83.3,70+,Russia,Saint Petersburg,Home,No,4,Website,2,Corporate Buyers
+C1769,Company,M,40.7,40-50,Usa,Oregon,Home,Yes,1,Client,3,Luxury / High-Satisfaction
+C1770,Individual,F,80.6,70+,Usa,Washington,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1771,Company,M,51.0,50-60,Usa,Georgia,Home,Yes,3,Client,3,Luxury / High-Satisfaction
+C1772,Company,F,51.4,50-60,Canada,Alberta,Investment,Yes,5,Agency,3,Luxury / High-Satisfaction
+C1773,Individual,M,45.5,40-50,Usa,Nevada,Investment,Yes,3,Agency,1,First-Time / Loan Buyers
+C1774,Individual,M,41.5,40-50,Usa,Oregon,Home,No,4,Agency,2,Corporate Buyers
+C1775,Individual,F,55.7,50-60,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C1776,Individual,F,52.8,50-60,France,Occitanie,Home,No,1,Website,0,Global Investors
+C1777,Individual,M,51.7,50-60,Usa,California,Investment,No,5,Client,2,Corporate Buyers
+C1778,Individual,M,32.4,30-40,Usa,Georgia,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1779,Individual,F,47.2,40-50,Usa,California,Home,No,5,Client,2,Corporate Buyers
+C1780,Individual,M,70.1,70+,Usa,Utah,Investment,No,1,Website,2,Corporate Buyers
+C1781,Individual,F,57.7,50-60,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C1782,Individual,F,26.5,<30,Uk,England,Investment,No,1,Website,2,Corporate Buyers
+C1783,Individual,M,72.3,70+,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1784,Individual,M,28.3,<30,Australia,Western Australia,Home,No,3,Client,0,Global Investors
+C1785,Individual,F,70.3,70+,Usa,Colorado,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1786,Individual,M,31.3,30-40,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C1787,Individual,M,70.7,70+,Usa,Georgia,Investment,No,5,Agency,2,Corporate Buyers
+C1788,Individual,M,36.6,30-40,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1789,Individual,M,43.9,40-50,Usa,Colorado,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C1790,Individual,M,86.3,70+,Usa,Nevada,Investment,No,5,Client,2,Corporate Buyers
+C1791,Individual,M,60.1,60-70,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C1792,Individual,M,31.0,30-40,Usa,California,Home,No,3,Agency,2,Corporate Buyers
+C1793,Individual,M,57.2,50-60,Usa,Utah,Investment,No,1,Website,2,Corporate Buyers
+C1794,Individual,M,30.5,30-40,Usa,Colorado,Home,No,3,Website,2,Corporate Buyers
+C1795,Individual,M,80.5,70+,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1796,Individual,F,75.7,70+,Usa,California,Investment,Yes,5,Client,1,First-Time / Loan Buyers
+C1797,Individual,F,69.3,60-70,Usa,Oregon,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1798,Individual,M,59.9,50-60,Usa,Arizona,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1799,Individual,F,76.4,70+,Usa,Colorado,Home,No,5,Agency,2,Corporate Buyers
+C1800,Individual,M,82.2,70+,Usa,Oregon,Home,No,1,Client,2,Corporate Buyers
+C1801,Individual,M,62.4,60-70,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1802,Individual,M,78.2,70+,Usa,Nevada,Investment,No,1,Client,2,Corporate Buyers
+C1803,Individual,F,39.2,30-40,Canada,Quebec,Investment,No,5,Agency,0,Global Investors
+C1804,Individual,M,37.3,30-40,Usa,California,Home,No,1,Website,2,Corporate Buyers
+C1805,Individual,M,73.4,70+,Uk,Northern Ireland,Investment,No,3,Website,2,Corporate Buyers
+C1806,Individual,F,59.2,50-60,Australia,New South Wales,Investment,No,2,Agency,0,Global Investors
+C1807,Individual,F,69.4,60-70,France,Brittany,Home,No,5,Website,0,Global Investors
+C1808,Individual,F,36.4,30-40,Usa,Washington,Investment,No,2,Client,2,Corporate Buyers
+C1809,Individual,F,45.1,40-50,Usa,New York,Home,Yes,4,Agency,1,First-Time / Loan Buyers
+C1810,Individual,F,81.4,70+,Usa,Texas,Home,No,3,Agency,2,Corporate Buyers
+C1811,Individual,F,68.3,60-70,Usa,California,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1812,Individual,M,49.2,40-50,France,Provence,Home,Yes,5,Website,0,Global Investors
+C1813,Individual,M,78.5,70+,Germany,Hamburg,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C1814,Individual,M,39.2,30-40,Denmark,North Denmark,Home,No,2,Website,0,Global Investors
+C1815,Individual,M,77.2,70+,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C1816,Individual,M,64.2,60-70,Canada,Quebec,Home,No,2,Website,0,Global Investors
+C1817,Individual,F,81.9,70+,Usa,Virginia,Home,No,1,Agency,2,Corporate Buyers
+C1818,Individual,F,31.8,30-40,Usa,Washington,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1819,Individual,M,63.4,60-70,Russia,Krasnodar Krai,Home,No,1,Website,2,Corporate Buyers
+C1820,Individual,M,46.8,40-50,France,Provence,Home,No,3,Website,0,Global Investors
+C1821,Individual,M,81.7,70+,Usa,Nevada,Home,No,5,Website,2,Corporate Buyers
+C1822,Individual,M,30.3,30-40,Usa,Oregon,Investment,Yes,5,Website,1,First-Time / Loan Buyers
+C1823,Individual,M,58.9,50-60,Usa,Oregon,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1824,Individual,M,63.8,60-70,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1825,Individual,M,69.5,60-70,Mexico,Nuevo Leon,Home,No,2,Agency,2,Corporate Buyers
+C1826,Individual,M,75.0,70+,Usa,Ohio,Home,No,4,Client,2,Corporate Buyers
+C1827,Individual,M,53.5,50-60,Usa,New York,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1828,Individual,M,34.6,30-40,Usa,California,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C1829,Individual,F,28.9,<30,Usa,California,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C1830,Individual,F,67.2,60-70,Usa,Arizona,Home,No,3,Website,2,Corporate Buyers
+C1831,Individual,F,75.8,70+,Russia,Tatarstan,Home,No,3,Website,2,Corporate Buyers
+C1832,Individual,M,39.2,30-40,Usa,Oregon,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1833,Individual,F,78.4,70+,Usa,Arizona,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1834,Individual,M,63.3,60-70,Belgium,Flanders,Investment,No,5,Agency,0,Global Investors
+C1835,Individual,F,66.7,60-70,Canada,Alberta,Investment,Yes,4,Agency,0,Global Investors
+C1836,Individual,F,65.7,60-70,Usa,California,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1837,Individual,F,76.2,70+,Usa,California,Home,Yes,2,Client,1,First-Time / Loan Buyers
+C1838,Individual,F,61.4,60-70,Canada,Alberta,Investment,No,1,Agency,0,Global Investors
+C1839,Individual,M,83.4,70+,Usa,California,Investment,No,2,Agency,2,Corporate Buyers
+C1840,Individual,M,40.0,30-40,Uk,England,Investment,No,3,Website,2,Corporate Buyers
+C1841,Individual,M,79.1,70+,Usa,New York,Home,No,4,Website,2,Corporate Buyers
+C1842,Company,M,47.7,40-50,Canada,Alberta,Home,Yes,3,Agency,3,Luxury / High-Satisfaction
+C1843,Individual,M,74.0,70+,Germany,Hesse,Home,No,4,Website,0,Global Investors
+C1844,Individual,F,47.9,40-50,Usa,Ohio,Home,No,1,Agency,2,Corporate Buyers
+C1845,Individual,M,76.8,70+,Usa,California,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1846,Individual,F,40.6,40-50,Russia,Novosibirsk,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C1847,Individual,M,74.2,70+,Usa,Utah,Home,No,4,Website,2,Corporate Buyers
+C1848,Individual,F,32.9,30-40,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C1849,Individual,M,49.8,40-50,Canada,Alberta,Investment,Yes,3,Website,0,Global Investors
+C1850,Individual,M,54.9,50-60,Usa,New York,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C1851,Individual,F,72.0,70+,Uk,England,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1852,Individual,F,28.5,<30,Usa,Virginia,Home,No,4,Website,2,Corporate Buyers
+C1853,Individual,F,77.3,70+,Usa,Virginia,Investment,No,4,Website,2,Corporate Buyers
+C1854,Company,M,66.2,60-70,France,Ile-De-France,Investment,No,1,Client,3,Luxury / High-Satisfaction
+C1855,Individual,F,42.4,40-50,Usa,California,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1856,Company,M,32.1,30-40,Usa,Virginia,Home,No,2,Website,3,Luxury / High-Satisfaction
+C1857,Individual,M,39.2,30-40,Usa,California,Investment,Yes,2,Website,1,First-Time / Loan Buyers
+C1858,Individual,F,68.0,60-70,Usa,Colorado,Home,No,5,Website,2,Corporate Buyers
+C1859,Individual,M,82.6,70+,Usa,California,Home,Yes,5,Client,1,First-Time / Loan Buyers
+C1860,Company,F,55.9,50-60,Usa,California,Home,Yes,4,Agency,3,Luxury / High-Satisfaction
+C1861,Individual,M,44.4,40-50,Usa,California,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C1862,Individual,M,72.8,70+,Usa,California,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1863,Individual,F,78.3,70+,Uk,Scotland,Home,No,3,Website,2,Corporate Buyers
+C1864,Individual,F,54.1,50-60,Usa,New York,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1865,Individual,M,52.4,50-60,Usa,Arizona,Investment,No,4,Website,2,Corporate Buyers
+C1866,Individual,F,54.8,50-60,Usa,Nevada,Home,No,2,Agency,2,Corporate Buyers
+C1867,Individual,M,74.4,70+,Usa,California,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1868,Individual,F,50.6,50-60,Uk,Wales,Home,No,1,Website,2,Corporate Buyers
+C1869,Individual,F,50.7,50-60,Mexico,Nuevo Leon,Home,No,5,Client,2,Corporate Buyers
+C1870,Individual,M,45.7,40-50,Usa,Washington,Investment,No,1,Agency,2,Corporate Buyers
+C1871,Individual,F,64.7,60-70,Usa,Texas,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1872,Individual,M,85.7,70+,Mexico,Mexico City,Home,No,5,Client,2,Corporate Buyers
+C1873,Individual,F,67.3,60-70,Canada,British Columbia,Home,No,5,Agency,0,Global Investors
+C1874,Individual,M,53.6,50-60,Usa,Colorado,Investment,No,1,Agency,2,Corporate Buyers
+C1875,Individual,F,82.8,70+,Usa,Nevada,Home,No,2,Client,2,Corporate Buyers
+C1876,Company,M,45.3,40-50,Usa,Ohio,Investment,Yes,4,Website,3,Luxury / High-Satisfaction
+C1877,Individual,M,64.8,60-70,Usa,Arizona,Home,No,5,Agency,2,Corporate Buyers
+C1878,Individual,M,58.7,50-60,Usa,Washington,Home,No,5,Agency,2,Corporate Buyers
+C1879,Individual,F,49.4,40-50,Usa,New York,Home,No,3,Website,2,Corporate Buyers
+C1880,Individual,F,28.4,<30,Usa,California,Home,Yes,5,Client,1,First-Time / Loan Buyers
+C1881,Individual,F,36.8,30-40,Usa,Oregon,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1882,Individual,F,66.2,60-70,Usa,Virginia,Investment,No,3,Website,2,Corporate Buyers
+C1883,Individual,M,85.3,70+,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1884,Individual,M,71.9,70+,Usa,Nevada,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1885,Individual,M,58.6,50-60,Germany,Hamburg,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1886,Individual,F,26.6,<30,Usa,California,Home,No,5,Website,2,Corporate Buyers
+C1887,Individual,F,40.4,40-50,Usa,Oregon,Investment,No,1,Agency,2,Corporate Buyers
+C1888,Individual,M,63.9,60-70,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1889,Individual,M,38.9,30-40,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1890,Individual,M,72.3,70+,Canada,Ontario,Home,No,4,Client,0,Global Investors
+C1891,Individual,M,54.0,50-60,Usa,Oregon,Home,No,2,Agency,2,Corporate Buyers
+C1892,Individual,F,75.0,70+,Usa,Nevada,Investment,Yes,5,Agency,1,First-Time / Loan Buyers
+C1893,Individual,F,63.5,60-70,Usa,Washington,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1894,Individual,F,82.3,70+,Usa,Texas,Investment,No,4,Website,2,Corporate Buyers
+C1895,Company,M,57.4,50-60,Usa,Nevada,Investment,No,4,Agency,3,Luxury / High-Satisfaction
+C1896,Individual,M,71.0,70+,Usa,Virginia,Investment,No,3,Agency,2,Corporate Buyers
+C1897,Individual,F,75.5,70+,Canada,Ontario,Home,No,2,Website,0,Global Investors
+C1898,Individual,M,47.5,40-50,Usa,New York,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1899,Individual,M,30.2,30-40,Uk,England,Home,No,3,Website,2,Corporate Buyers
+C1900,Individual,F,27.8,<30,Uk,England,Investment,No,4,Client,2,Corporate Buyers
+C1901,Individual,M,43.8,40-50,Canada,British Columbia,Home,No,4,Agency,0,Global Investors
+C1902,Company,M,45.6,40-50,Usa,Colorado,Investment,No,2,Agency,3,Luxury / High-Satisfaction
+C1903,Individual,F,34.5,30-40,Usa,Nevada,Home,No,2,Website,2,Corporate Buyers
+C1904,Individual,M,77.2,70+,Usa,Texas,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1905,Individual,M,65.4,60-70,Usa,Virginia,Home,No,1,Website,2,Corporate Buyers
+C1906,Individual,F,70.8,70+,Usa,California,Home,No,2,Agency,2,Corporate Buyers
+C1907,Individual,M,76.3,70+,Usa,Colorado,Home,No,3,Website,2,Corporate Buyers
+C1908,Individual,F,50.2,50-60,Usa,California,Home,No,2,Website,2,Corporate Buyers
+C1909,Individual,F,40.5,40-50,Usa,California,Investment,No,2,Agency,2,Corporate Buyers
+C1910,Company,M,40.7,40-50,Usa,California,Home,Yes,2,Agency,3,Luxury / High-Satisfaction
+C1911,Individual,M,37.4,30-40,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C1912,Individual,F,71.9,70+,Usa,Utah,Investment,No,1,Website,2,Corporate Buyers
+C1913,Individual,M,45.6,40-50,France,Provence,Home,No,5,Website,0,Global Investors
+C1914,Individual,F,32.8,30-40,Uk,Scotland,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1915,Individual,F,62.0,60-70,Usa,Arizona,Investment,No,4,Client,2,Corporate Buyers
+C1916,Individual,M,77.7,70+,Usa,California,Investment,No,2,Website,2,Corporate Buyers
+C1917,Individual,F,54.8,50-60,Australia,New South Wales,Home,No,2,Client,0,Global Investors
+C1918,Individual,F,85.8,70+,Usa,California,Home,No,1,Client,2,Corporate Buyers
+C1919,Company,F,58.4,50-60,Usa,Nevada,Investment,No,1,Website,3,Luxury / High-Satisfaction
+C1920,Individual,M,56.6,50-60,Germany,North Rhine-Westphalia,Home,No,5,Agency,0,Global Investors
+C1921,Individual,F,69.5,60-70,France,Provence,Home,No,5,Website,0,Global Investors
+C1922,Individual,F,38.4,30-40,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1923,Individual,F,79.3,70+,Mexico,Jalisco,Investment,Yes,1,Client,1,First-Time / Loan Buyers
+C1924,Individual,M,68.5,60-70,Usa,California,Home,No,3,Client,2,Corporate Buyers
+C1925,Individual,M,84.4,70+,Usa,Colorado,Home,No,2,Agency,2,Corporate Buyers
+C1926,Individual,M,28.6,<30,Mexico,Puebla,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1927,Individual,F,73.6,70+,Usa,California,Investment,Yes,1,Website,1,First-Time / Loan Buyers
+C1928,Individual,M,28.3,<30,Australia,New South Wales,Home,Yes,4,Client,0,Global Investors
+C1929,Individual,F,84.7,70+,Mexico,Jalisco,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1930,Individual,F,60.4,60-70,Usa,Colorado,Investment,No,3,Agency,2,Corporate Buyers
+C1931,Individual,F,31.1,30-40,Usa,Utah,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1932,Individual,F,64.1,60-70,Usa,California,Investment,No,2,Website,2,Corporate Buyers
+C1933,Company,F,32.2,30-40,Australia,Queensland,Home,No,1,Client,3,Luxury / High-Satisfaction
+C1934,Individual,M,48.2,40-50,France,Ile-De-France,Investment,Yes,4,Client,0,Global Investors
+C1935,Individual,F,43.2,40-50,Usa,Arizona,Home,No,5,Website,2,Corporate Buyers
+C1936,Individual,M,42.3,40-50,Russia,Krasnodar Krai,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1937,Individual,F,65.3,60-70,Usa,Arizona,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1938,Individual,M,52.9,50-60,Canada,Quebec,Home,Yes,4,Website,0,Global Investors
+C1939,Individual,F,47.0,40-50,Usa,Florida,Investment,Yes,1,Agency,1,First-Time / Loan Buyers
+C1940,Individual,F,29.4,<30,Canada,Manitoba,Home,No,4,Agency,0,Global Investors
+C1941,Individual,F,83.1,70+,Usa,Nevada,Home,No,5,Client,2,Corporate Buyers
+C1942,Company,F,41.6,40-50,Usa,Nevada,Home,Yes,2,Agency,3,Luxury / High-Satisfaction
+C1943,Individual,M,53.5,50-60,Usa,Arizona,Home,No,1,Website,2,Corporate Buyers
+C1944,Individual,M,40.3,40-50,Usa,California,Investment,No,1,Website,2,Corporate Buyers
+C1945,Individual,M,59.3,50-60,Mexico,Mexico City,Investment,No,3,Website,2,Corporate Buyers
+C1946,Individual,M,71.4,70+,Usa,California,Home,No,1,Agency,2,Corporate Buyers
+C1947,Individual,M,47.4,40-50,Usa,Nevada,Home,No,3,Website,2,Corporate Buyers
+C1948,Individual,F,71.2,70+,Usa,Arizona,Home,No,2,Agency,2,Corporate Buyers
+C1949,Individual,F,70.9,70+,Usa,Colorado,Home,Yes,2,Agency,1,First-Time / Loan Buyers
+C1950,Individual,M,51.2,50-60,Usa,Ohio,Home,No,4,Agency,2,Corporate Buyers
+C1951,Individual,M,29.8,<30,Usa,Utah,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1952,Company,M,34.1,30-40,Usa,Nevada,Home,No,3,Agency,3,Luxury / High-Satisfaction
+C1953,Individual,M,53.7,50-60,Germany,Bavaria,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1954,Individual,F,59.8,50-60,Australia,Western Australia,Investment,No,3,Website,0,Global Investors
+C1955,Individual,M,28.1,<30,Canada,Quebec,Home,No,1,Website,0,Global Investors
+C1956,Individual,F,58.8,50-60,Usa,Oregon,Home,No,2,Agency,2,Corporate Buyers
+C1957,Individual,M,63.7,60-70,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1958,Individual,F,55.7,50-60,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1959,Individual,F,84.3,70+,Usa,Texas,Home,No,1,Website,2,Corporate Buyers
+C1960,Individual,F,38.9,30-40,Usa,Colorado,Home,Yes,2,Website,1,First-Time / Loan Buyers
+C1961,Individual,M,31.7,30-40,Usa,California,Home,No,5,Agency,2,Corporate Buyers
+C1962,Individual,F,30.9,30-40,Mexico,Puebla,Home,No,5,Agency,2,Corporate Buyers
+C1963,Company,M,58.3,50-60,Usa,Texas,Home,No,5,Website,3,Luxury / High-Satisfaction
+C1964,Individual,M,54.0,50-60,Usa,Virginia,Home,No,5,Agency,2,Corporate Buyers
+C1965,Individual,M,29.4,<30,Usa,California,Home,No,4,Agency,2,Corporate Buyers
+C1966,Individual,M,62.4,60-70,Canada,British Columbia,Home,No,1,Agency,0,Global Investors
+C1967,Individual,M,68.7,60-70,Usa,Oregon,Investment,No,4,Agency,2,Corporate Buyers
+C1968,Individual,F,67.6,60-70,Usa,California,Investment,Yes,3,Client,1,First-Time / Loan Buyers
+C1969,Individual,M,33.0,30-40,Usa,Colorado,Investment,Yes,2,Agency,1,First-Time / Loan Buyers
+C1970,Individual,M,48.3,40-50,Usa,Arizona,Investment,Yes,4,Website,1,First-Time / Loan Buyers
+C1971,Individual,F,49.9,40-50,Usa,Virginia,Home,No,5,Website,2,Corporate Buyers
+C1972,Individual,F,54.5,50-60,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1973,Company,M,32.8,30-40,Usa,Washington,Home,Yes,4,Agency,3,Luxury / High-Satisfaction
+C1974,Individual,M,76.2,70+,Usa,Nevada,Home,Yes,5,Agency,1,First-Time / Loan Buyers
+C1975,Individual,F,50.9,50-60,Belgium,Wallonia,Home,No,4,Agency,0,Global Investors
+C1976,Individual,M,31.1,30-40,Usa,Florida,Home,No,5,Client,2,Corporate Buyers
+C1977,Individual,M,32.2,30-40,Usa,Virginia,Home,No,1,Website,2,Corporate Buyers
+C1978,Company,F,59.4,50-60,Usa,California,Investment,Yes,5,Website,3,Luxury / High-Satisfaction
+C1979,Individual,M,84.1,70+,Usa,Colorado,Home,Yes,3,Agency,1,First-Time / Loan Buyers
+C1980,Individual,F,70.1,70+,Usa,Texas,Investment,No,4,Website,2,Corporate Buyers
+C1981,Individual,F,33.5,30-40,Canada,Quebec,Home,No,5,Agency,0,Global Investors
+C1982,Individual,M,78.8,70+,Usa,California,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1983,Individual,M,65.3,60-70,Uk,Northern Ireland,Home,No,3,Website,2,Corporate Buyers
+C1984,Individual,M,69.7,60-70,Usa,California,Home,No,4,Website,2,Corporate Buyers
+C1985,Individual,M,63.1,60-70,Uk,Scotland,Home,Yes,1,Agency,1,First-Time / Loan Buyers
+C1986,Individual,M,49.2,40-50,Usa,New York,Investment,No,1,Website,2,Corporate Buyers
+C1987,Individual,M,39.7,30-40,Belgium,Wallonia,Investment,No,5,Website,0,Global Investors
+C1988,Individual,M,31.7,30-40,Usa,California,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1989,Individual,M,66.6,60-70,Usa,Texas,Home,No,3,Agency,2,Corporate Buyers
+C1990,Individual,M,49.6,40-50,Usa,Texas,Investment,No,5,Agency,2,Corporate Buyers
+C1991,Individual,F,75.9,70+,Usa,California,Home,No,3,Website,2,Corporate Buyers
+C1992,Individual,F,83.4,70+,Usa,Texas,Home,Yes,3,Website,1,First-Time / Loan Buyers
+C1993,Individual,M,41.0,40-50,Usa,New York,Home,No,2,Website,2,Corporate Buyers
+C1994,Individual,F,31.9,30-40,Usa,Oregon,Investment,Yes,3,Website,1,First-Time / Loan Buyers
+C1995,Individual,F,33.3,30-40,Usa,California,Investment,No,4,Agency,2,Corporate Buyers
+C1996,Individual,F,34.0,30-40,Usa,Nevada,Home,Yes,1,Website,1,First-Time / Loan Buyers
+C1997,Individual,M,83.7,70+,Usa,Arizona,Home,Yes,4,Website,1,First-Time / Loan Buyers
+C1998,Individual,M,62.8,60-70,Usa,Virginia,Home,Yes,5,Website,1,First-Time / Loan Buyers
+C1999,Individual,M,82.0,70+,Usa,Ohio,Home,Yes,4,Client,1,First-Time / Loan Buyers
+C2000,Individual,F,30.2,30-40,Usa,Georgia,Home,Yes,1,Agency,1,First-Time / Loan Buyers
